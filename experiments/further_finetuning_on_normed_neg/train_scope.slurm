@@ -8,6 +8,9 @@
 #SBATCH --mail-type=FAIL
 #SBATCH --time=00:45:00
 
+# NB: I used the same template for my slurm files as was done in the IN5550 course at 
+# The University of Oslo, spring 2022. 
+
 source ${HOME}/.bashrc
 
 # sanity: exit on all errors and disallow unset environment variables

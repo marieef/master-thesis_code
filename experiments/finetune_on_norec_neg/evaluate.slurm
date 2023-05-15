@@ -6,6 +6,9 @@
 #SBATCH --nodes=1
 #SBATCH --mem-per-cpu=3G
 #
+# NB: I used the same template for my slurm files as was done in the IN5550 course at 
+# The University of Oslo, spring 2022. 
+#
 # by default, request two cores (NumPy may just know how to take
 # advantage of them; for larger computations, maybe use between
 # six and ten; at some point, we will look at how to run on gpus
