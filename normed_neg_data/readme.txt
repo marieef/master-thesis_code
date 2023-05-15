@@ -1,0 +1,1 @@
+NorMed_neg_without_focus.json is identical to NorMed_neg.json except that focus_relations are not included.
