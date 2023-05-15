@@ -1,0 +1,43 @@
+Python 3
+
+Packages: 
+-----------
+collections
+os
+re
+tqdm  
+sklearn
+torch
+logging
+argparse
+datetime
+transformers
+random
+
+
+NLPL modules we used on Saga:
+----------------------------------------------------------------
+nlpl-nlptools/2021.01-gomkl-2019b-Python-3.7.4
+nlpl-pytorch/1.7.1-gomkl-2019b-cuda-10.1.243-Python-3.7.4
+nlpl-transformers/4.14.1-gomkl-2019b-Python-3.7.4
+
+See http://wiki.nlpl.eu/Eosc/easybuild/modules for documentation. 
+
+
+Seeds used for training: 
+------------------------
+1234
+2345
+3456
+2022
+5550
+
+
+Language models used: 
+-------------------------------------------------------------------------------
+norbert2, release 2.0: https://huggingface.co/ltg/norbert2
+nb-bert-base, release 1.1: https://huggingface.co/NbAiLab/nb-bert-base
+nb-bert-large, release 1.0beta: https://huggingface.co/NbAiLab/nb-bert-large
+xlm-roberta-base (no release number): https://huggingface.co/xlm-roberta-base
+xlm-roberta-large (no release number): https://huggingface.co/xlm-roberta-large
+

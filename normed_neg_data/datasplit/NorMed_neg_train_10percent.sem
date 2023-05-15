@@ -1,0 +1,2094 @@
+_	biomedical_sentence_0001	0	En	_	_	_	***
+_	biomedical_sentence_0001	1	svamp	_	_	_	***
+_	biomedical_sentence_0001	2	som	_	_	_	***
+_	biomedical_sentence_0001	3	inneholder	_	_	_	***
+_	biomedical_sentence_0001	4	gentamycin	_	_	_	***
+_	biomedical_sentence_0001	5	og	_	_	_	***
+_	biomedical_sentence_0001	6	kollagen	_	_	_	***
+_	biomedical_sentence_0001	7	er	_	_	_	***
+_	biomedical_sentence_0001	8	siden	_	_	_	***
+_	biomedical_sentence_0001	9	1985	_	_	_	***
+_	biomedical_sentence_0001	10	satt	_	_	_	***
+_	biomedical_sentence_0001	11	inn	_	_	_	***
+_	biomedical_sentence_0001	12	hos	_	_	_	***
+_	biomedical_sentence_0001	13	over	_	_	_	***
+_	biomedical_sentence_0001	14	en	_	_	_	***
+_	biomedical_sentence_0001	15	million	_	_	_	***
+_	biomedical_sentence_0001	16	pasienter	_	_	_	***
+_	biomedical_sentence_0001	17	som	_	_	_	***
+_	biomedical_sentence_0001	18	infeksjonsprofylakse	_	_	_	***
+_	biomedical_sentence_0001	19	ved	_	_	_	***
+_	biomedical_sentence_0001	20	kolorektal	_	_	_	***
+_	biomedical_sentence_0001	21	kirurgi	_	_	_	***
+_	biomedical_sentence_0001	22	.	_	_	_	***
+
+_	biomedical_sentence_0003	0	Studien	_	_	_	***
+_	biomedical_sentence_0003	1	omfattet	_	_	_	***
+_	biomedical_sentence_0003	2	39	_	_	_	***
+_	biomedical_sentence_0003	3	kirurgiske	_	_	_	***
+_	biomedical_sentence_0003	4	sentre	_	_	_	***
+_	biomedical_sentence_0003	5	og	_	_	_	***
+_	biomedical_sentence_0003	6	602	_	_	_	***
+_	biomedical_sentence_0003	7	pasienter	_	_	_	***
+_	biomedical_sentence_0003	8	som	_	_	_	***
+_	biomedical_sentence_0003	9	fikk	_	_	_	***
+_	biomedical_sentence_0003	10	utført	_	_	_	***
+_	biomedical_sentence_0003	11	åpen	_	_	_	***
+_	biomedical_sentence_0003	12	eller	_	_	_	***
+_	biomedical_sentence_0003	13	laparoskopisk	_	_	_	***
+_	biomedical_sentence_0003	14	kirurgi	_	_	_	***
+_	biomedical_sentence_0003	15	.	_	_	_	***
+
+_	biomedical_sentence_0005	0	Den	_	_	_	***
+_	biomedical_sentence_0005	1	preoperative	_	_	_	***
+_	biomedical_sentence_0005	2	behandlingen	_	_	_	***
+_	biomedical_sentence_0005	3	,	_	_	_	***
+_	biomedical_sentence_0005	4	inkludert	_	_	_	***
+_	biomedical_sentence_0005	5	systemisk	_	_	_	***
+_	biomedical_sentence_0005	6	antibiotikaprofylakse	_	_	_	***
+_	biomedical_sentence_0005	7	,	_	_	_	***
+_	biomedical_sentence_0005	8	var	_	_	_	***
+_	biomedical_sentence_0005	9	lik	_	_	_	***
+_	biomedical_sentence_0005	10	i	_	_	_	***
+_	biomedical_sentence_0005	11	begge	_	_	_	***
+_	biomedical_sentence_0005	12	grupper	_	_	_	***
+_	biomedical_sentence_0005	13	.	_	_	_	***
+
+_	biomedical_sentence_0018	0	Spesielt	_	_	_	***
+_	biomedical_sentence_0018	1	er	_	_	_	***
+_	biomedical_sentence_0018	2	eldre	_	_	_	***
+_	biomedical_sentence_0018	3	med	_	_	_	***
+_	biomedical_sentence_0018	4	underliggende	_	_	_	***
+_	biomedical_sentence_0018	5	systemisk	_	_	_	***
+_	biomedical_sentence_0018	6	sykdom	_	_	_	***
+_	biomedical_sentence_0018	7	utsatt	_	_	_	***
+_	biomedical_sentence_0018	8	.	_	_	_	***
+
+_	biomedical_sentence_0048	0	Hemofec	_	_	_	_	Hemofec	_
+_	biomedical_sentence_0048	1	ga	_	_	_	_	ga	_
+_	biomedical_sentence_0048	2	negative	_	_	_	negative	_	_
+_	biomedical_sentence_0048	3	funn	_	_	_	_	funn	_
+_	biomedical_sentence_0048	4	.	_	_	_	_	_	_
+
+_	biomedical_sentence_0052	0	Pasientens	_	_	_	***
+_	biomedical_sentence_0052	1	lettgradige	_	_	_	***
+_	biomedical_sentence_0052	2	anemi	_	_	_	***
+_	biomedical_sentence_0052	3	var	_	_	_	***
+_	biomedical_sentence_0052	4	kjent	_	_	_	***
+_	biomedical_sentence_0052	5	fra	_	_	_	***
+_	biomedical_sentence_0052	6	tidligere	_	_	_	***
+_	biomedical_sentence_0052	7	.	_	_	_	***
+
+_	biomedical_sentence_0085	0	Ultralyd	_	_	_	_	Ultralyd	_	_	_	_
+_	biomedical_sentence_0085	1	kan	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_0085	2	derfor	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_0085	3	i	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_0085	4	enkelte	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_0085	5	tilfeller	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_0085	6	egne	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_0085	7	seg	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_0085	8	til	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_0085	9	å	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_0085	10	påvise	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_0085	11	denne	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_0085	12	tilstanden	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_0085	13	,	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_0085	14	men	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_0085	15	er	_	_	_	_	er	_	_	_	_
+_	biomedical_sentence_0085	16	uegnet	_	_	_	u	egnet	_	_	_	_
+_	biomedical_sentence_0085	17	til	_	_	_	_	til	_	_	_	_
+_	biomedical_sentence_0085	18	å	_	_	_	_	å	_	_	_	_
+_	biomedical_sentence_0085	19	utelukke	_	_	_	_	utelukke	_	utelukke	_	_
+_	biomedical_sentence_0085	20	diagnosen	_	_	_	_	diagnosen	_	_	diagnosen	_
+_	biomedical_sentence_0085	21	.	_	_	_	_	_	_	_	_	_
+
+_	biomedical_sentence_0086	0	CT	_	_	_	***
+_	biomedical_sentence_0086	1	har	_	_	_	***
+_	biomedical_sentence_0086	2	en	_	_	_	***
+_	biomedical_sentence_0086	3	sensitivitet	_	_	_	***
+_	biomedical_sentence_0086	4	for	_	_	_	***
+_	biomedical_sentence_0086	5	akutt	_	_	_	***
+_	biomedical_sentence_0086	6	appendisitt	_	_	_	***
+_	biomedical_sentence_0086	7	på	_	_	_	***
+_	biomedical_sentence_0086	8	nær	_	_	_	***
+_	biomedical_sentence_0086	9	100	_	_	_	***
+_	biomedical_sentence_0086	10	%	_	_	_	***
+_	biomedical_sentence_0086	11	og	_	_	_	***
+_	biomedical_sentence_0086	12	spesifisitet	_	_	_	***
+_	biomedical_sentence_0086	13	på	_	_	_	***
+_	biomedical_sentence_0086	14	99	_	_	_	***
+_	biomedical_sentence_0086	15	%	_	_	_	***
+_	biomedical_sentence_0086	16	.	_	_	_	***
+
+_	biomedical_sentence_0094	0	mistanke	_	_	_	***
+_	biomedical_sentence_0094	1	om	_	_	_	***
+_	biomedical_sentence_0094	2	akutt	_	_	_	***
+_	biomedical_sentence_0094	3	appendisitt	_	_	_	***
+_	biomedical_sentence_0094	4	.	_	_	_	***
+
+_	biomedical_sentence_0097	0	Kontroll	_	_	_	***
+_	biomedical_sentence_0097	1	av	_	_	_	***
+_	biomedical_sentence_0097	2	hemoglobin	_	_	_	***
+_	biomedical_sentence_0097	3	i	_	_	_	***
+_	biomedical_sentence_0097	4	blodgassprøven	_	_	_	***
+_	biomedical_sentence_0097	5	under	_	_	_	***
+_	biomedical_sentence_0097	6	inngrepet	_	_	_	***
+_	biomedical_sentence_0097	7	viste	_	_	_	***
+_	biomedical_sentence_0097	8	10,3	_	_	_	***
+_	biomedical_sentence_0097	9	g	_	_	_	***
+_	biomedical_sentence_0097	10	/	_	_	_	***
+_	biomedical_sentence_0097	11	dl	_	_	_	***
+_	biomedical_sentence_0097	12	.	_	_	_	***
+
+_	biomedical_sentence_0128	0	Det	_	_	_	***
+_	biomedical_sentence_0128	1	tilkom	_	_	_	***
+_	biomedical_sentence_0128	2	troponinstigning	_	_	_	***
+_	biomedical_sentence_0128	3	,	_	_	_	***
+_	biomedical_sentence_0128	4	og	_	_	_	***
+_	biomedical_sentence_0128	5	han	_	_	_	***
+_	biomedical_sentence_0128	6	døde	_	_	_	***
+_	biomedical_sentence_0128	7	av	_	_	_	***
+_	biomedical_sentence_0128	8	hjertestans	_	_	_	***
+_	biomedical_sentence_0128	9	fem	_	_	_	***
+_	biomedical_sentence_0128	10	dager	_	_	_	***
+_	biomedical_sentence_0128	11	senere	_	_	_	***
+_	biomedical_sentence_0128	12	.	_	_	_	***
+
+_	biomedical_sentence_0134	0	Disse	_	_	_	***
+_	biomedical_sentence_0134	1	svulstene	_	_	_	***
+_	biomedical_sentence_0134	2	ble	_	_	_	***
+_	biomedical_sentence_0134	3	tidligere	_	_	_	***
+_	biomedical_sentence_0134	4	omtalt	_	_	_	***
+_	biomedical_sentence_0134	5	som	_	_	_	***
+_	biomedical_sentence_0134	6	leiomyomer	_	_	_	***
+_	biomedical_sentence_0134	7	,	_	_	_	***
+_	biomedical_sentence_0134	8	leiomyosarkomer	_	_	_	***
+_	biomedical_sentence_0134	9	eller	_	_	_	***
+_	biomedical_sentence_0134	10	leiomyoblastomer	_	_	_	***
+_	biomedical_sentence_0134	11	.	_	_	_	***
+
+_	biomedical_sentence_0135	0	Oftest	_	_	_	***
+_	biomedical_sentence_0135	1	rammet	_	_	_	***
+_	biomedical_sentence_0135	2	er	_	_	_	***
+_	biomedical_sentence_0135	3	aldersgruppen	_	_	_	***
+_	biomedical_sentence_0135	4	6080	_	_	_	***
+_	biomedical_sentence_0135	5	år	_	_	_	***
+_	biomedical_sentence_0135	6	.	_	_	_	***
+
+_	biomedical_sentence_0139	0	Andre	_	_	_	***
+_	biomedical_sentence_0139	1	symptomer	_	_	_	***
+_	biomedical_sentence_0139	2	assosiert	_	_	_	***
+_	biomedical_sentence_0139	3	med	_	_	_	***
+_	biomedical_sentence_0139	4	gastrointestinal	_	_	_	***
+_	biomedical_sentence_0139	5	stromal	_	_	_	***
+_	biomedical_sentence_0139	6	tumor	_	_	_	***
+_	biomedical_sentence_0139	7	er	_	_	_	***
+_	biomedical_sentence_0139	8	magesmerter	_	_	_	***
+_	biomedical_sentence_0139	9	,	_	_	_	***
+_	biomedical_sentence_0139	10	palpabel	_	_	_	***
+_	biomedical_sentence_0139	11	oppfylning	_	_	_	***
+_	biomedical_sentence_0139	12	i	_	_	_	***
+_	biomedical_sentence_0139	13	buk	_	_	_	***
+_	biomedical_sentence_0139	14	,	_	_	_	***
+_	biomedical_sentence_0139	15	obstruktive	_	_	_	***
+_	biomedical_sentence_0139	16	tarmsymptomer	_	_	_	***
+_	biomedical_sentence_0139	17	og	_	_	_	***
+_	biomedical_sentence_0139	18	vekttap	_	_	_	***
+_	biomedical_sentence_0139	19	.	_	_	_	***
+
+_	biomedical_sentence_0142	0	Tumoren	_	_	_	***
+_	biomedical_sentence_0142	1	vokser	_	_	_	***
+_	biomedical_sentence_0142	2	i	_	_	_	***
+_	biomedical_sentence_0142	3	tarmveggen	_	_	_	***
+_	biomedical_sentence_0142	4	og	_	_	_	***
+_	biomedical_sentence_0142	5	kan	_	_	_	***
+_	biomedical_sentence_0142	6	bre	_	_	_	***
+_	biomedical_sentence_0142	7	seg	_	_	_	***
+_	biomedical_sentence_0142	8	inn	_	_	_	***
+_	biomedical_sentence_0142	9	i	_	_	_	***
+_	biomedical_sentence_0142	10	lumen	_	_	_	***
+_	biomedical_sentence_0142	11	eller	_	_	_	***
+_	biomedical_sentence_0142	12	vokse	_	_	_	***
+_	biomedical_sentence_0142	13	utover	_	_	_	***
+_	biomedical_sentence_0142	14	tarmens	_	_	_	***
+_	biomedical_sentence_0142	15	begrensning	_	_	_	***
+_	biomedical_sentence_0142	16	.	_	_	_	***
+
+_	biomedical_sentence_0149	0	Malignitetsgrad	_	_	_	***
+_	biomedical_sentence_0149	1	er	_	_	_	***
+_	biomedical_sentence_0149	2	avhengig	_	_	_	***
+_	biomedical_sentence_0149	3	av	_	_	_	***
+_	biomedical_sentence_0149	4	tumorstørrelse	_	_	_	***
+_	biomedical_sentence_0149	5	og	_	_	_	***
+_	biomedical_sentence_0149	6	mitosegrad	_	_	_	***
+_	biomedical_sentence_0149	7	.	_	_	_	***
+
+_	biomedical_sentence_0182	0	Ektopisk	_	_	_	***
+_	biomedical_sentence_0182	1	svangerskap	_	_	_	***
+_	biomedical_sentence_0182	2	og	_	_	_	***
+_	biomedical_sentence_0182	3	ruptur	_	_	_	***
+_	biomedical_sentence_0182	4	av	_	_	_	***
+_	biomedical_sentence_0182	5	ovariecyste	_	_	_	***
+_	biomedical_sentence_0182	6	er	_	_	_	***
+_	biomedical_sentence_0182	7	de	_	_	_	***
+_	biomedical_sentence_0182	8	hyppigste	_	_	_	***
+_	biomedical_sentence_0182	9	gynekologiske	_	_	_	***
+_	biomedical_sentence_0182	10	årsakene	_	_	_	***
+_	biomedical_sentence_0182	11	.	_	_	_	***
+
+_	biomedical_sentence_0194	0	CT	_	_	_	***
+_	biomedical_sentence_0194	1	er	_	_	_	***
+_	biomedical_sentence_0194	2	viktig	_	_	_	***
+_	biomedical_sentence_0194	3	i	_	_	_	***
+_	biomedical_sentence_0194	4	diagnostikken	_	_	_	***
+_	biomedical_sentence_0194	5	,	_	_	_	***
+_	biomedical_sentence_0194	6	både	_	_	_	***
+_	biomedical_sentence_0194	7	for	_	_	_	***
+_	biomedical_sentence_0194	8	å	_	_	_	***
+_	biomedical_sentence_0194	9	påvise	_	_	_	***
+_	biomedical_sentence_0194	10	blod	_	_	_	***
+_	biomedical_sentence_0194	11	og	_	_	_	***
+_	biomedical_sentence_0194	12	for	_	_	_	***
+_	biomedical_sentence_0194	13	å	_	_	_	***
+_	biomedical_sentence_0194	14	kartlegge	_	_	_	***
+_	biomedical_sentence_0194	15	årsaken	_	_	_	***
+_	biomedical_sentence_0194	16	til	_	_	_	***
+_	biomedical_sentence_0194	17	blødningen	_	_	_	***
+_	biomedical_sentence_0194	18	.	_	_	_	***
+
+_	biomedical_sentence_0197	0	Er	_	_	_	***
+_	biomedical_sentence_0197	1	pasienten	_	_	_	***
+_	biomedical_sentence_0197	2	hemodynamisk	_	_	_	***
+_	biomedical_sentence_0197	3	stabil	_	_	_	***
+_	biomedical_sentence_0197	4	,	_	_	_	***
+_	biomedical_sentence_0197	5	kan	_	_	_	***
+_	biomedical_sentence_0197	6	konservativ	_	_	_	***
+_	biomedical_sentence_0197	7	behandling	_	_	_	***
+_	biomedical_sentence_0197	8	og	_	_	_	***
+_	biomedical_sentence_0197	9	eventuelt	_	_	_	***
+_	biomedical_sentence_0197	10	angiografi	_	_	_	***
+_	biomedical_sentence_0197	11	med	_	_	_	***
+_	biomedical_sentence_0197	12	transarteriell	_	_	_	***
+_	biomedical_sentence_0197	13	embolisering	_	_	_	***
+_	biomedical_sentence_0197	14	vurderes	_	_	_	***
+_	biomedical_sentence_0197	15	.	_	_	_	***
+
+_	biomedical_sentence_0258	0	Smerter	_	_	_	***
+_	biomedical_sentence_0258	1	og	_	_	_	***
+_	biomedical_sentence_0258	2	tømmingsvansker	_	_	_	***
+_	biomedical_sentence_0258	3	er	_	_	_	***
+_	biomedical_sentence_0258	4	hovedsymptomene	_	_	_	***
+_	biomedical_sentence_0258	5	ved	_	_	_	***
+_	biomedical_sentence_0258	6	overaktiv	_	_	_	***
+_	biomedical_sentence_0258	7	bekkenbunn-syndrom	_	_	_	***
+_	biomedical_sentence_0258	8	.	_	_	_	***
+
+_	biomedical_sentence_0269	0	Majoriteten	_	_	_	***
+_	biomedical_sentence_0269	1	av	_	_	_	***
+_	biomedical_sentence_0269	2	våre	_	_	_	***
+_	biomedical_sentence_0269	3	pasienter	_	_	_	***
+_	biomedical_sentence_0269	4	har	_	_	_	***
+_	biomedical_sentence_0269	5	en	_	_	_	***
+_	biomedical_sentence_0269	6	lang	_	_	_	***
+_	biomedical_sentence_0269	7	sykehistorie	_	_	_	***
+_	biomedical_sentence_0269	8	,	_	_	_	***
+_	biomedical_sentence_0269	9	og	_	_	_	***
+_	biomedical_sentence_0269	10	mange	_	_	_	***
+_	biomedical_sentence_0269	11	har	_	_	_	***
+_	biomedical_sentence_0269	12	vært	_	_	_	***
+_	biomedical_sentence_0269	13	feildiagnostisert	_	_	_	***
+_	biomedical_sentence_0269	14	før	_	_	_	***
+_	biomedical_sentence_0269	15	de	_	_	_	***
+_	biomedical_sentence_0269	16	diagnostiseres	_	_	_	***
+_	biomedical_sentence_0269	17	med	_	_	_	***
+_	biomedical_sentence_0269	18	overaktiv	_	_	_	***
+_	biomedical_sentence_0269	19	bekkenbunn-syndrom	_	_	_	***
+_	biomedical_sentence_0269	20	.	_	_	_	***
+
+_	biomedical_sentence_0277	0	Botox-injeksjoner	_	_	_	***
+_	biomedical_sentence_0277	1	har	_	_	_	***
+_	biomedical_sentence_0277	2	erfaringsmessig	_	_	_	***
+_	biomedical_sentence_0277	3	vist	_	_	_	***
+_	biomedical_sentence_0277	4	bedre	_	_	_	***
+_	biomedical_sentence_0277	5	resultater	_	_	_	***
+_	biomedical_sentence_0277	6	,	_	_	_	***
+_	biomedical_sentence_0277	7	og	_	_	_	***
+_	biomedical_sentence_0277	8	er	_	_	_	***
+_	biomedical_sentence_0277	9	av	_	_	_	***
+_	biomedical_sentence_0277	10	denne	_	_	_	***
+_	biomedical_sentence_0277	11	grunn	_	_	_	***
+_	biomedical_sentence_0277	12	blitt	_	_	_	***
+_	biomedical_sentence_0277	13	førstevalg	_	_	_	***
+_	biomedical_sentence_0277	14	som	_	_	_	***
+_	biomedical_sentence_0277	15	behandlingsalternativ	_	_	_	***
+_	biomedical_sentence_0277	16	ved	_	_	_	***
+_	biomedical_sentence_0277	17	sykehuset	_	_	_	***
+_	biomedical_sentence_0277	18	.	_	_	_	***
+
+_	biomedical_sentence_0287	0	I	_	_	_	_	_	_
+_	biomedical_sentence_0287	1	tillegg	_	_	_	_	_	_
+_	biomedical_sentence_0287	2	ble	_	_	_	_	_	_
+_	biomedical_sentence_0287	3	det	_	_	_	_	_	_
+_	biomedical_sentence_0287	4	utført	_	_	_	_	_	_
+_	biomedical_sentence_0287	5	et	_	_	_	_	et	_
+_	biomedical_sentence_0287	6	ikke-systematisk	_	_	_	ikke-	systematisk	_
+_	biomedical_sentence_0287	7	litteratursøk	_	_	_	_	litteratursøk	_
+_	biomedical_sentence_0287	8	i	_	_	_	_	_	_
+_	biomedical_sentence_0287	9	PubMed	_	_	_	_	_	_
+_	biomedical_sentence_0287	10	.	_	_	_	_	_	_
+
+_	biomedical_sentence_0294	0	M.	_	_	_	***
+_	biomedical_sentence_0294	1	levator	_	_	_	***
+_	biomedical_sentence_0294	2	ani	_	_	_	***
+_	biomedical_sentence_0294	3	deles	_	_	_	***
+_	biomedical_sentence_0294	4	inn	_	_	_	***
+_	biomedical_sentence_0294	5	i	_	_	_	***
+_	biomedical_sentence_0294	6	tre	_	_	_	***
+_	biomedical_sentence_0294	7	deler	_	_	_	***
+_	biomedical_sentence_0294	8	.	_	_	_	***
+
+_	biomedical_sentence_0302	0	Den	_	_	_	***
+_	biomedical_sentence_0302	1	anorektale	_	_	_	***
+_	biomedical_sentence_0302	2	vinkel	_	_	_	***
+_	biomedical_sentence_0302	3	Rectum	_	_	_	***
+_	biomedical_sentence_0302	4	skilles	_	_	_	***
+_	biomedical_sentence_0302	5	fra	_	_	_	***
+_	biomedical_sentence_0302	6	vagina	_	_	_	***
+_	biomedical_sentence_0302	7	av	_	_	_	***
+_	biomedical_sentence_0302	8	perineum	_	_	_	***
+_	biomedical_sentence_0302	9	og	_	_	_	***
+_	biomedical_sentence_0302	10	den	_	_	_	***
+_	biomedical_sentence_0302	11	rektovaginale	_	_	_	***
+_	biomedical_sentence_0302	12	fascie	_	_	_	***
+_	biomedical_sentence_0302	13	.	_	_	_	***
+
+_	biomedical_sentence_0320	0	Spastisitet	_	_	_	***
+_	biomedical_sentence_0320	1	er	_	_	_	***
+_	biomedical_sentence_0320	2	defi	_	_	_	***
+_	biomedical_sentence_0320	3	nert	_	_	_	***
+_	biomedical_sentence_0320	4	som	_	_	_	***
+_	biomedical_sentence_0320	5	patologisk	_	_	_	***
+_	biomedical_sentence_0320	6	økt	_	_	_	***
+_	biomedical_sentence_0320	7	muskeltonus	_	_	_	***
+_	biomedical_sentence_0320	8	som	_	_	_	***
+_	biomedical_sentence_0320	9	følge	_	_	_	***
+_	biomedical_sentence_0320	10	av	_	_	_	***
+_	biomedical_sentence_0320	11	enten	_	_	_	***
+_	biomedical_sentence_0320	12	spinal	_	_	_	***
+_	biomedical_sentence_0320	13	eller	_	_	_	***
+_	biomedical_sentence_0320	14	cerebral	_	_	_	***
+_	biomedical_sentence_0320	15	årsak	_	_	_	***
+_	biomedical_sentence_0320	16	.	_	_	_	***
+
+_	biomedical_sentence_0322	0	Vi	_	_	_	***
+_	biomedical_sentence_0322	1	har	_	_	_	***
+_	biomedical_sentence_0322	2	valgt	_	_	_	***
+_	biomedical_sentence_0322	3	å	_	_	_	***
+_	biomedical_sentence_0322	4	benytte	_	_	_	***
+_	biomedical_sentence_0322	5	betegnelsen	_	_	_	***
+_	biomedical_sentence_0322	6	overaktiv	_	_	_	***
+_	biomedical_sentence_0322	7	bekkenbunn-syndrom	_	_	_	***
+_	biomedical_sentence_0322	8	som	_	_	_	***
+_	biomedical_sentence_0322	9	er	_	_	_	***
+_	biomedical_sentence_0322	10	mindre	_	_	_	***
+_	biomedical_sentence_0322	11	utbredt	_	_	_	***
+_	biomedical_sentence_0322	12	,	_	_	_	***
+_	biomedical_sentence_0322	13	men	_	_	_	***
+_	biomedical_sentence_0322	14	mer	_	_	_	***
+_	biomedical_sentence_0322	15	beskrivende	_	_	_	***
+_	biomedical_sentence_0322	16	for	_	_	_	***
+_	biomedical_sentence_0322	17	tilstandens	_	_	_	***
+_	biomedical_sentence_0322	18	patofysiologi	_	_	_	***
+_	biomedical_sentence_0322	19	.	_	_	_	***
+
+_	biomedical_sentence_0343	0	Hovedforskjellen	_	_	_	***
+_	biomedical_sentence_0343	1	ligger	_	_	_	***
+_	biomedical_sentence_0343	2	i	_	_	_	***
+_	biomedical_sentence_0343	3	smertelokalisasjon	_	_	_	***
+_	biomedical_sentence_0343	4	samt	_	_	_	***
+_	biomedical_sentence_0343	5	tonus	_	_	_	***
+_	biomedical_sentence_0343	6	i	_	_	_	***
+_	biomedical_sentence_0343	7	bekkenbunnsmuskulaturen	_	_	_	***
+_	biomedical_sentence_0343	8	.	_	_	_	***
+
+_	biomedical_sentence_0357	0	Bekkenbunnssmerter	_	_	_	***
+_	biomedical_sentence_0357	1	i	_	_	_	***
+_	biomedical_sentence_0357	2	seg	_	_	_	***
+_	biomedical_sentence_0357	3	selv	_	_	_	***
+_	biomedical_sentence_0357	4	kan	_	_	_	***
+_	biomedical_sentence_0357	5	være	_	_	_	***
+_	biomedical_sentence_0357	6	symptom	_	_	_	***
+_	biomedical_sentence_0357	7	ved	_	_	_	***
+_	biomedical_sentence_0357	8	en	_	_	_	***
+_	biomedical_sentence_0357	9	rekke	_	_	_	***
+_	biomedical_sentence_0357	10	ulike	_	_	_	***
+_	biomedical_sentence_0357	11	tilstander	_	_	_	***
+_	biomedical_sentence_0357	12	.	_	_	_	***
+
+_	biomedical_sentence_0384	0	Utredning	_	_	_	_	_	_
+_	biomedical_sentence_0384	1	/	_	_	_	_	_	_
+_	biomedical_sentence_0384	2	diagnostikk	_	_	_	_	_	_
+_	biomedical_sentence_0384	3	Overaktiv	_	_	_	_	_	_
+_	biomedical_sentence_0384	4	bekkenbunnssyndrom	_	_	_	_	_	_
+_	biomedical_sentence_0384	5	er	_	_	_	_	_	_
+_	biomedical_sentence_0384	6	en	_	_	_	_	_	_
+_	biomedical_sentence_0384	7	eksklusjonsdiagnose	_	_	_	_	_	_
+_	biomedical_sentence_0384	8	,	_	_	_	_	_	_
+_	biomedical_sentence_0384	9	og	_	_	_	_	_	_
+_	biomedical_sentence_0384	10	det	_	_	_	_	_	_
+_	biomedical_sentence_0384	11	finnes	_	_	_	_	finnes	_
+_	biomedical_sentence_0384	12	ingen	_	_	_	ingen	_	_
+_	biomedical_sentence_0384	13	gullstandard	_	_	_	_	gullstandard	_
+_	biomedical_sentence_0384	14	for	_	_	_	_	for	_
+_	biomedical_sentence_0384	15	diagnostisering	_	_	_	_	diagnostisering	_
+_	biomedical_sentence_0384	16	.	_	_	_	_	_	_
+
+_	biomedical_sentence_0396	0	Behandling	_	_	_	_	_	_
+_	biomedical_sentence_0396	1	Det	_	_	_	_	_	_
+_	biomedical_sentence_0396	2	foreligger	_	_	_	_	foreligger	_
+_	biomedical_sentence_0396	3	ingen	_	_	_	ingen	_	_
+_	biomedical_sentence_0396	4	vitenskapelig	_	_	_	_	vitenskapelig	_
+_	biomedical_sentence_0396	5	dokumentert	_	_	_	_	dokumentert	_
+_	biomedical_sentence_0396	6	behandling	_	_	_	_	behandling	_
+_	biomedical_sentence_0396	7	som	_	_	_	_	som	_
+_	biomedical_sentence_0396	8	kan	_	_	_	_	kan	_
+_	biomedical_sentence_0396	9	helbrede	_	_	_	_	helbrede	_
+_	biomedical_sentence_0396	10	spas	_	_	_	_	spas	_
+_	biomedical_sentence_0396	11	tisk	_	_	_	_	tisk	_
+_	biomedical_sentence_0396	12	bekkenbunn-syndrom	_	_	_	_	bekkenbunn-syndrom	_
+_	biomedical_sentence_0396	13	.	_	_	_	_	_	_
+
+_	biomedical_sentence_0401	0	Publiserte	_	_	_	***
+_	biomedical_sentence_0401	1	resultater	_	_	_	***
+_	biomedical_sentence_0401	2	viser	_	_	_	***
+_	biomedical_sentence_0401	3	symptomreduksjon	_	_	_	***
+_	biomedical_sentence_0401	4	hos	_	_	_	***
+_	biomedical_sentence_0401	5	studiepopulasjoner	_	_	_	***
+_	biomedical_sentence_0401	6	på	_	_	_	***
+_	biomedical_sentence_0401	7	3189	_	_	_	***
+_	biomedical_sentence_0401	8	%	_	_	_	***
+_	biomedical_sentence_0401	9	.	_	_	_	***
+
+_	biomedical_sentence_0409	0	Maria	_	_	_	***
+_	biomedical_sentence_0409	1	og	_	_	_	***
+_	biomedical_sentence_0409	2	medarbeidere	_	_	_	***
+_	biomedical_sentence_0409	3	publiserte	_	_	_	***
+_	biomedical_sentence_0409	4	i	_	_	_	***
+_	biomedical_sentence_0409	5	2006	_	_	_	***
+_	biomedical_sentence_0409	6	en	_	_	_	***
+_	biomedical_sentence_0409	7	studie	_	_	_	***
+_	biomedical_sentence_0409	8	der	_	_	_	***
+_	biomedical_sentence_0409	9	de	_	_	_	***
+_	biomedical_sentence_0409	10	behandlet	_	_	_	***
+_	biomedical_sentence_0409	11	24	_	_	_	***
+_	biomedical_sentence_0409	12	pasienter	_	_	_	***
+_	biomedical_sentence_0409	13	med	_	_	_	***
+_	biomedical_sentence_0409	14	60IE	_	_	_	***
+_	biomedical_sentence_0409	15	boutulinumtoksin	_	_	_	***
+_	biomedical_sentence_0409	16	A	_	_	_	***
+_	biomedical_sentence_0409	17	i	_	_	_	***
+_	biomedical_sentence_0409	18	m.	_	_	_	***
+_	biomedical_sentence_0409	19	puborectalis	_	_	_	***
+_	biomedical_sentence_0409	20	,	_	_	_	***
+_	biomedical_sentence_0409	21	der	_	_	_	***
+_	biomedical_sentence_0409	22	100	_	_	_	***
+_	biomedical_sentence_0409	23	%	_	_	_	***
+_	biomedical_sentence_0409	24	oppnådde	_	_	_	***
+_	biomedical_sentence_0409	25	symptomfrihet	_	_	_	***
+_	biomedical_sentence_0409	26	.	_	_	_	***
+
+_	biomedical_sentence_0413	0	Behandlingen	_	_	_	***
+_	biomedical_sentence_0413	1	rettes	_	_	_	***
+_	biomedical_sentence_0413	2	mot	_	_	_	***
+_	biomedical_sentence_0413	3	den	_	_	_	***
+_	biomedical_sentence_0413	4	overaktive	_	_	_	***
+_	biomedical_sentence_0413	5	bekkenbunnsmuskulaturen	_	_	_	***
+_	biomedical_sentence_0413	6	,	_	_	_	***
+_	biomedical_sentence_0413	7	men	_	_	_	***
+_	biomedical_sentence_0413	8	helbredelse	_	_	_	***
+_	biomedical_sentence_0413	9	er	_	_	_	***
+_	biomedical_sentence_0413	10	vanskelig	_	_	_	***
+_	biomedical_sentence_0413	11	å	_	_	_	***
+_	biomedical_sentence_0413	12	oppnå	_	_	_	***
+_	biomedical_sentence_0413	13	.	_	_	_	***
+
+_	biomedical_sentence_0422__1	0	Colon	_	_	_	_	_	_
+_	biomedical_sentence_0422__1	1	transittid	_	_	_	_	_	_
+_	biomedical_sentence_0422__1	2	bør	_	_	_	_	_	_
+_	biomedical_sentence_0422__1	3	utføres	_	_	_	_	_	_
+_	biomedical_sentence_0422__1	4	for	_	_	_	_	_	_
+_	biomedical_sentence_0422__1	5	å	_	_	_	_	_	_
+_	biomedical_sentence_0422__1	6	utelukke	_	_	_	utelukke	_	_
+_	biomedical_sentence_0422__1	7	redusert	_	_	_	_	redusert	_
+_	biomedical_sentence_0422__1	8	tarmmotilitet	_	_	_	_	tarmmotilitet	_
+
+_	biomedical_sentence_0425	0	Dette	_	_	_	***
+_	biomedical_sentence_0425	1	er	_	_	_	***
+_	biomedical_sentence_0425	2	basert	_	_	_	***
+_	biomedical_sentence_0425	3	på	_	_	_	***
+_	biomedical_sentence_0425	4	at	_	_	_	***
+_	biomedical_sentence_0425	5	denne	_	_	_	***
+_	biomedical_sentence_0425	6	grensen	_	_	_	***
+_	biomedical_sentence_0425	7	er	_	_	_	***
+_	biomedical_sentence_0425	8	benyttet	_	_	_	***
+_	biomedical_sentence_0425	9	i	_	_	_	***
+_	biomedical_sentence_0425	10	de	_	_	_	***
+_	biomedical_sentence_0425	11	fleste	_	_	_	***
+_	biomedical_sentence_0425	12	publiserte	_	_	_	***
+_	biomedical_sentence_0425	13	studier	_	_	_	***
+_	biomedical_sentence_0425	14	.	_	_	_	***
+
+_	biomedical_sentence_0429	0	effekten	_	_	_	***
+_	biomedical_sentence_0429	1	reduseres	_	_	_	***
+_	biomedical_sentence_0429	2	ved	_	_	_	***
+_	biomedical_sentence_0429	3	start	_	_	_	***
+_	biomedical_sentence_0429	4	etter	_	_	_	***
+_	biomedical_sentence_0429	5	tre	_	_	_	***
+_	biomedical_sentence_0429	6	måneder	_	_	_	***
+_	biomedical_sentence_0429	7	,	_	_	_	***
+_	biomedical_sentence_0429	8	men	_	_	_	***
+_	biomedical_sentence_0429	9	disse	_	_	_	***
+_	biomedical_sentence_0429	10	pasienten	_	_	_	***
+_	biomedical_sentence_0429	11	kan	_	_	_	***
+_	biomedical_sentence_0429	12	også	_	_	_	***
+_	biomedical_sentence_0429	13	ha	_	_	_	***
+_	biomedical_sentence_0429	14	fått	_	_	_	***
+_	biomedical_sentence_0429	15	.	_	_	_	***
+
+_	biomedical_sentence_0437	0	for	_	_	_	***
+_	biomedical_sentence_0437	1	å	_	_	_	***
+_	biomedical_sentence_0437	2	kurere	_	_	_	***
+_	biomedical_sentence_0437	3	en	_	_	_	***
+_	biomedical_sentence_0437	4	pasient	_	_	_	***
+_	biomedical_sentence_0437	5	.	_	_	_	***
+
+_	biomedical_sentence_0451	0	Andre	_	_	_	***
+_	biomedical_sentence_0451	1	sykdommer	_	_	_	***
+_	biomedical_sentence_0451	2	gir	_	_	_	***
+_	biomedical_sentence_0451	3	imidlertid	_	_	_	***
+_	biomedical_sentence_0451	4	ofte	_	_	_	***
+_	biomedical_sentence_0451	5	økt	_	_	_	***
+_	biomedical_sentence_0451	6	.	_	_	_	***
+
+_	biomedical_sentence_0485	0	no	_	_	_	***
+_	biomedical_sentence_0485	1	Seksjon	_	_	_	***
+_	biomedical_sentence_0485	2	for	_	_	_	***
+_	biomedical_sentence_0485	3	onkologisk	_	_	_	***
+_	biomedical_sentence_0485	4	kirurgi	_	_	_	***
+_	biomedical_sentence_0485	5	Kirurgisk	_	_	_	***
+_	biomedical_sentence_0485	6	klinikk	_	_	_	***
+_	biomedical_sentence_0485	7	Rikshospitalet	_	_	_	***
+_	biomedical_sentence_0485	8	0027	_	_	_	***
+_	biomedical_sentence_0485	9	Oslo	_	_	_	***
+_	biomedical_sentence_0485	10	Svein	_	_	_	***
+_	biomedical_sentence_0485	11	Dueland	_	_	_	***
+_	biomedical_sentence_0485	12	Kreftavdelingen	_	_	_	***
+_	biomedical_sentence_0485	13	Rikshospitalet	_	_	_	***
+_	biomedical_sentence_0485	14	Stein	_	_	_	***
+_	biomedical_sentence_0485	15	Larsen	_	_	_	***
+_	biomedical_sentence_0485	16	Seksjon	_	_	_	***
+_	biomedical_sentence_0485	17	for	_	_	_	***
+_	biomedical_sentence_0485	18	onkologisk	_	_	_	***
+_	biomedical_sentence_0485	19	kirurgi	_	_	_	***
+_	biomedical_sentence_0485	20	Kirurgisk	_	_	_	***
+_	biomedical_sentence_0485	21	klinikk	_	_	_	***
+_	biomedical_sentence_0485	22	Rikshospitalet	_	_	_	***
+_	biomedical_sentence_0485	23	Karl-Erik	_	_	_	***
+_	biomedical_sentence_0485	24	Giercksky	_	_	_	***
+_	biomedical_sentence_0485	25	Seksjon	_	_	_	***
+_	biomedical_sentence_0485	26	for	_	_	_	***
+_	biomedical_sentence_0485	27	onkologisk	_	_	_	***
+_	biomedical_sentence_0485	28	kirurgi	_	_	_	***
+_	biomedical_sentence_0485	29	Kirurgisk	_	_	_	***
+_	biomedical_sentence_0485	30	klinikk	_	_	_	***
+_	biomedical_sentence_0485	31	Rikshospitalet	_	_	_	***
+_	biomedical_sentence_0485	32	og	_	_	_	***
+_	biomedical_sentence_0485	33	Medisinske	_	_	_	***
+_	biomedical_sentence_0485	34	fakultet	_	_	_	***
+_	biomedical_sentence_0485	35	Universitetet	_	_	_	***
+_	biomedical_sentence_0485	36	i	_	_	_	***
+_	biomedical_sentence_0485	37	Oslo	_	_	_	***
+_	biomedical_sentence_0485	38	Sammendrag	_	_	_	***
+_	biomedical_sentence_0485	39	Bakgrunn	_	_	_	***
+_	biomedical_sentence_0485	40	.	_	_	_	***
+
+_	biomedical_sentence_0498	0	Den	_	_	_	***
+_	biomedical_sentence_0498	1	kirurgiske	_	_	_	***
+_	biomedical_sentence_0498	2	radikalitet	_	_	_	***
+_	biomedical_sentence_0498	3	er	_	_	_	***
+_	biomedical_sentence_0498	4	den	_	_	_	***
+_	biomedical_sentence_0498	5	viktigste	_	_	_	***
+_	biomedical_sentence_0498	6	prognostiske	_	_	_	***
+_	biomedical_sentence_0498	7	faktor	_	_	_	***
+_	biomedical_sentence_0498	8	.	_	_	_	***
+
+_	biomedical_sentence_0500	0	Bedre	_	_	_	***
+_	biomedical_sentence_0500	1	preoperativ	_	_	_	***
+_	biomedical_sentence_0500	2	kjemoradiasjon	_	_	_	***
+_	biomedical_sentence_0500	3	kan	_	_	_	***
+_	biomedical_sentence_0500	4	sannsynligvis	_	_	_	***
+_	biomedical_sentence_0500	5	bedre	_	_	_	***
+_	biomedical_sentence_0500	6	behandlingen	_	_	_	***
+_	biomedical_sentence_0500	7	.	_	_	_	***
+
+_	biomedical_sentence_0502__1	0	Ingen	_	_	_	Ingen	_	_
+
+_	biomedical_sentence_0506	0	Aggressiv	_	_	_	***
+_	biomedical_sentence_0506	1	behandling	_	_	_	***
+_	biomedical_sentence_0506	2	av	_	_	_	***
+_	biomedical_sentence_0506	3	residivene	_	_	_	***
+_	biomedical_sentence_0506	4	kan	_	_	_	***
+_	biomedical_sentence_0506	5	forhindre	_	_	_	***
+_	biomedical_sentence_0506	6	dette	_	_	_	***
+_	biomedical_sentence_0506	7	,	_	_	_	***
+_	biomedical_sentence_0506	8	og	_	_	_	***
+_	biomedical_sentence_0506	9	gi	_	_	_	***
+_	biomedical_sentence_0506	10	bedret	_	_	_	***
+_	biomedical_sentence_0506	11	livskvalitet	_	_	_	***
+_	biomedical_sentence_0506	12	for	_	_	_	***
+_	biomedical_sentence_0506	13	pasienten	_	_	_	***
+_	biomedical_sentence_0506	14	.	_	_	_	***
+
+_	biomedical_sentence_0520	0	Residivene	_	_	_	***
+_	biomedical_sentence_0520	1	kan	_	_	_	***
+_	biomedical_sentence_0520	2	oppstå	_	_	_	***
+_	biomedical_sentence_0520	3	i	_	_	_	***
+_	biomedical_sentence_0520	4	tumorrest	_	_	_	***
+_	biomedical_sentence_0520	5	etter	_	_	_	***
+_	biomedical_sentence_0520	6	primæroperasjonen	_	_	_	***
+_	biomedical_sentence_0520	7	,	_	_	_	***
+_	biomedical_sentence_0520	8	fra	_	_	_	***
+_	biomedical_sentence_0520	9	viable	_	_	_	***
+_	biomedical_sentence_0520	10	tumorceller	_	_	_	***
+_	biomedical_sentence_0520	11	etterlatt	_	_	_	***
+_	biomedical_sentence_0520	12	ved	_	_	_	***
+_	biomedical_sentence_0520	13	perforasjon	_	_	_	***
+_	biomedical_sentence_0520	14	av	_	_	_	***
+_	biomedical_sentence_0520	15	tumor	_	_	_	***
+_	biomedical_sentence_0520	16	,	_	_	_	***
+_	biomedical_sentence_0520	17	eller	_	_	_	***
+_	biomedical_sentence_0520	18	ved	_	_	_	***
+_	biomedical_sentence_0520	19	søl	_	_	_	***
+_	biomedical_sentence_0520	20	fra	_	_	_	***
+_	biomedical_sentence_0520	21	tarmlumen	_	_	_	***
+_	biomedical_sentence_0520	22	peroperativt	_	_	_	***
+_	biomedical_sentence_0520	23	.	_	_	_	***
+
+_	biomedical_sentence_0521	0	De	_	_	_	***
+_	biomedical_sentence_0521	1	aller	_	_	_	***
+_	biomedical_sentence_0521	2	fleste	_	_	_	***
+_	biomedical_sentence_0521	3	lokale	_	_	_	***
+_	biomedical_sentence_0521	4	residiver	_	_	_	***
+_	biomedical_sentence_0521	5	etter	_	_	_	***
+_	biomedical_sentence_0521	6	lav	_	_	_	***
+_	biomedical_sentence_0521	7	fremre	_	_	_	***
+_	biomedical_sentence_0521	8	reseksjon	_	_	_	***
+_	biomedical_sentence_0521	9	vokser	_	_	_	***
+_	biomedical_sentence_0521	10	i	_	_	_	***
+_	biomedical_sentence_0521	11	anastomosenivå	_	_	_	***
+_	biomedical_sentence_0521	12	,	_	_	_	***
+_	biomedical_sentence_0521	13	mest	_	_	_	***
+_	biomedical_sentence_0521	14	kranialt	_	_	_	***
+_	biomedical_sentence_0521	15	for	_	_	_	***
+_	biomedical_sentence_0521	16	anastomosen	_	_	_	***
+_	biomedical_sentence_0521	17	,	_	_	_	***
+_	biomedical_sentence_0521	18	som	_	_	_	***
+_	biomedical_sentence_0521	19	om	_	_	_	***
+_	biomedical_sentence_0521	20	tumor	_	_	_	***
+_	biomedical_sentence_0521	21	utgår	_	_	_	***
+_	biomedical_sentence_0521	22	fra	_	_	_	***
+_	biomedical_sentence_0521	23	den	_	_	_	***
+_	biomedical_sentence_0521	24	primære	_	_	_	***
+_	biomedical_sentence_0521	25	svulsten	_	_	_	***
+_	biomedical_sentence_0521	26	.	_	_	_	***
+
+_	biomedical_sentence_0522	0	Reseksjon	_	_	_	_	Reseksjon	_
+_	biomedical_sentence_0522	1	av	_	_	_	_	av	_
+_	biomedical_sentence_0522	2	lymfeknuter	_	_	_	_	lymfeknuter	_
+_	biomedical_sentence_0522	3	langs	_	_	_	_	langs	_
+_	biomedical_sentence_0522	4	iliaca	_	_	_	_	iliaca	_
+_	biomedical_sentence_0522	5	internakarene	_	_	_	_	internakarene	_
+_	biomedical_sentence_0522	6	inngår	_	_	_	_	inngår	_
+_	biomedical_sentence_0522	7	ikke	_	_	_	ikke	_	_
+_	biomedical_sentence_0522	8	i	_	_	_	_	i	_
+_	biomedical_sentence_0522	9	konseptet	_	_	_	_	konseptet	_
+_	biomedical_sentence_0522	10	total	_	_	_	_	total	_
+_	biomedical_sentence_0522	11	mesorektal	_	_	_	_	mesorektal	_
+_	biomedical_sentence_0522	12	reseksjon	_	_	_	_	reseksjon	_
+_	biomedical_sentence_0522	13	som	_	_	_	_	som	_
+_	biomedical_sentence_0522	14	er	_	_	_	_	er	_
+_	biomedical_sentence_0522	15	standard	_	_	_	_	standard	_
+_	biomedical_sentence_0522	16	i	_	_	_	_	i	_
+_	biomedical_sentence_0522	17	Norge	_	_	_	_	Norge	_
+_	biomedical_sentence_0522	18	.	_	_	_	_	_	_
+
+_	biomedical_sentence_0527	0	Gjennomvekst	_	_	_	***
+_	biomedical_sentence_0527	1	til	_	_	_	***
+_	biomedical_sentence_0527	2	vagina	_	_	_	***
+_	biomedical_sentence_0527	3	,	_	_	_	***
+_	biomedical_sentence_0527	4	blære	_	_	_	***
+_	biomedical_sentence_0527	5	eller	_	_	_	***
+_	biomedical_sentence_0527	6	tynntarm	_	_	_	***
+_	biomedical_sentence_0527	7	kan	_	_	_	***
+_	biomedical_sentence_0527	8	gi	_	_	_	***
+_	biomedical_sentence_0527	9	fistler	_	_	_	***
+_	biomedical_sentence_0527	10	.	_	_	_	***
+
+_	biomedical_sentence_0551	0	Undersøkelsenes	_	_	_	***
+_	biomedical_sentence_0551	1	rekkefølge	_	_	_	***
+_	biomedical_sentence_0551	2	må	_	_	_	***
+_	biomedical_sentence_0551	3	derfor	_	_	_	***
+_	biomedical_sentence_0551	4	planlegges	_	_	_	***
+_	biomedical_sentence_0551	5	nøye	_	_	_	***
+_	biomedical_sentence_0551	6	.	_	_	_	***
+
+_	biomedical_sentence_0566	0	Dagens	_	_	_	***
+_	biomedical_sentence_0566	1	standard	_	_	_	***
+_	biomedical_sentence_0566	2	strålebehandling	_	_	_	***
+_	biomedical_sentence_0566	3	gir	_	_	_	***
+_	biomedical_sentence_0566	4	betydelige	_	_	_	***
+_	biomedical_sentence_0566	5	senskader	_	_	_	***
+_	biomedical_sentence_0566	6	hos	_	_	_	***
+_	biomedical_sentence_0566	7	et	_	_	_	***
+_	biomedical_sentence_0566	8	mindre	_	_	_	***
+_	biomedical_sentence_0566	9	antall	_	_	_	***
+_	biomedical_sentence_0566	10	pasienter	_	_	_	***
+_	biomedical_sentence_0566	11	.	_	_	_	***
+
+_	biomedical_sentence_0567	0	Denne	_	_	_	_	Denne	_
+_	biomedical_sentence_0567	1	variasjonen	_	_	_	_	variasjonen	_
+_	biomedical_sentence_0567	2	i	_	_	_	_	i	_
+_	biomedical_sentence_0567	3	normalvevstoleransen	_	_	_	_	normalvevstoleransen	_
+_	biomedical_sentence_0567	4	kan	_	_	_	_	kan	_
+_	biomedical_sentence_0567	5	ikke	_	_	_	ikke	_	_
+_	biomedical_sentence_0567	6	kvantiteres	_	_	_	_	kvantiteres	_
+_	biomedical_sentence_0567	7	.	_	_	_	_	_	_
+
+_	biomedical_sentence_0571	0	Opptil	_	_	_	***
+_	biomedical_sentence_0571	1	30—40	_	_	_	***
+_	biomedical_sentence_0571	2	Gy	_	_	_	***
+_	biomedical_sentence_0571	3	er	_	_	_	***
+_	biomedical_sentence_0571	4	kombinert	_	_	_	***
+_	biomedical_sentence_0571	5	med	_	_	_	***
+_	biomedical_sentence_0571	6	5-FU-holdig	_	_	_	***
+_	biomedical_sentence_0571	7	kjemoterapi	_	_	_	***
+_	biomedical_sentence_0571	8	,	_	_	_	***
+_	biomedical_sentence_0571	9	oftest	_	_	_	***
+_	biomedical_sentence_0571	10	ved	_	_	_	***
+_	biomedical_sentence_0571	11	redusert	_	_	_	***
+_	biomedical_sentence_0571	12	tidligere	_	_	_	***
+_	biomedical_sentence_0571	13	bestråling	_	_	_	***
+_	biomedical_sentence_0571	14	.	_	_	_	***
+
+_	biomedical_sentence_0586	0	Rene	_	_	_	***
+_	biomedical_sentence_0586	1	anastomoseresidiver	_	_	_	***
+_	biomedical_sentence_0586	2	etter	_	_	_	***
+_	biomedical_sentence_0586	3	lave	_	_	_	***
+_	biomedical_sentence_0586	4	fremre	_	_	_	***
+_	biomedical_sentence_0586	5	reseksjoner	_	_	_	***
+_	biomedical_sentence_0586	6	med	_	_	_	***
+_	biomedical_sentence_0586	7	god	_	_	_	***
+_	biomedical_sentence_0586	8	avstand	_	_	_	***
+_	biomedical_sentence_0586	9	til	_	_	_	***
+_	biomedical_sentence_0586	10	omkringliggende	_	_	_	***
+_	biomedical_sentence_0586	11	organer	_	_	_	***
+_	biomedical_sentence_0586	12	hos	_	_	_	***
+_	biomedical_sentence_0586	13	10—20	_	_	_	***
+_	biomedical_sentence_0586	14	%	_	_	_	***
+_	biomedical_sentence_0586	15	.	_	_	_	***
+
+_	biomedical_sentence_0588	0	b.	_	_	_	***
+_	biomedical_sentence_0588	1	Perifere	_	_	_	***
+_	biomedical_sentence_0588	2	lokale	_	_	_	***
+_	biomedical_sentence_0588	3	residiver	_	_	_	***
+_	biomedical_sentence_0588	4	infiltrerer	_	_	_	***
+_	biomedical_sentence_0588	5	bekkenveggen	_	_	_	***
+_	biomedical_sentence_0588	6	,	_	_	_	***
+_	biomedical_sentence_0588	7	oftest	_	_	_	***
+_	biomedical_sentence_0588	8	dorsalt	_	_	_	***
+_	biomedical_sentence_0588	9	og	_	_	_	***
+_	biomedical_sentence_0588	10	i	_	_	_	***
+_	biomedical_sentence_0588	11	nivå	_	_	_	***
+_	biomedical_sentence_0588	12	med	_	_	_	***
+_	biomedical_sentence_0588	13	eventuell	_	_	_	***
+_	biomedical_sentence_0588	14	anastomose	_	_	_	***
+_	biomedical_sentence_0588	15	.	_	_	_	***
+
+_	biomedical_sentence_0600	0	Siden	_	_	_	***
+_	biomedical_sentence_0600	1	det	_	_	_	***
+_	biomedical_sentence_0600	2	gjerne	_	_	_	***
+_	biomedical_sentence_0600	3	er	_	_	_	***
+_	biomedical_sentence_0600	4	vanskelig	_	_	_	***
+_	biomedical_sentence_0600	5	å	_	_	_	***
+_	biomedical_sentence_0600	6	vurdere	_	_	_	***
+_	biomedical_sentence_0600	7	tumors	_	_	_	***
+_	biomedical_sentence_0600	8	grenser	_	_	_	***
+_	biomedical_sentence_0600	9	,	_	_	_	***
+_	biomedical_sentence_0600	10	vil	_	_	_	***
+_	biomedical_sentence_0600	11	det	_	_	_	***
+_	biomedical_sentence_0600	12	ofte	_	_	_	***
+_	biomedical_sentence_0600	13	være	_	_	_	***
+_	biomedical_sentence_0600	14	hensiktmessig	_	_	_	***
+_	biomedical_sentence_0600	15	å	_	_	_	***
+_	biomedical_sentence_0600	16	gi	_	_	_	***
+_	biomedical_sentence_0600	17	preoperativ	_	_	_	***
+_	biomedical_sentence_0600	18	bestråling	_	_	_	***
+_	biomedical_sentence_0600	19	også	_	_	_	***
+_	biomedical_sentence_0600	20	av	_	_	_	***
+_	biomedical_sentence_0600	21	disse	_	_	_	***
+_	biomedical_sentence_0600	22	.	_	_	_	***
+
+_	biomedical_sentence_0610	0	Når	_	_	_	***
+_	biomedical_sentence_0610	1	tumor	_	_	_	***
+_	biomedical_sentence_0610	2	infiltrerer	_	_	_	***
+_	biomedical_sentence_0610	3	begrenset	_	_	_	***
+_	biomedical_sentence_0610	4	mot	_	_	_	***
+_	biomedical_sentence_0610	5	prostata	_	_	_	***
+_	biomedical_sentence_0610	6	,	_	_	_	***
+_	biomedical_sentence_0610	7	kan	_	_	_	***
+_	biomedical_sentence_0610	8	det	_	_	_	***
+_	biomedical_sentence_0610	9	utføres	_	_	_	***
+_	biomedical_sentence_0610	10	radikal	_	_	_	***
+_	biomedical_sentence_0610	11	prostatektomi	_	_	_	***
+_	biomedical_sentence_0610	12	med	_	_	_	***
+_	biomedical_sentence_0610	13	cystourethrastomi	_	_	_	***
+_	biomedical_sentence_0610	14	.	_	_	_	***
+
+_	biomedical_sentence_0641	0	Etter	_	_	_	***
+_	biomedical_sentence_0641	1	mikroskopisk	_	_	_	***
+_	biomedical_sentence_0641	2	radikal	_	_	_	***
+_	biomedical_sentence_0641	3	kirurgi	_	_	_	***
+_	biomedical_sentence_0641	4	er	_	_	_	***
+_	biomedical_sentence_0641	5	femårsoverlevelsen	_	_	_	***
+_	biomedical_sentence_0641	6	rundt	_	_	_	***
+_	biomedical_sentence_0641	7	45	_	_	_	***
+_	biomedical_sentence_0641	8	%	_	_	_	***
+_	biomedical_sentence_0641	9	,	_	_	_	***
+_	biomedical_sentence_0641	10	noe	_	_	_	***
+_	biomedical_sentence_0641	11	som	_	_	_	***
+_	biomedical_sentence_0641	12	er	_	_	_	***
+_	biomedical_sentence_0641	13	omtrent	_	_	_	***
+_	biomedical_sentence_0641	14	det	_	_	_	***
+_	biomedical_sentence_0641	15	samme	_	_	_	***
+_	biomedical_sentence_0641	16	som	_	_	_	***
+_	biomedical_sentence_0641	17	ved	_	_	_	***
+_	biomedical_sentence_0641	18	primæroperasjon	_	_	_	***
+_	biomedical_sentence_0641	19	med	_	_	_	***
+_	biomedical_sentence_0641	20	lymfeknutemetastaser	_	_	_	***
+_	biomedical_sentence_0641	21	.	_	_	_	***
+
+_	biomedical_sentence_0649	0	Alle	_	_	_	***
+_	biomedical_sentence_0649	1	materialer	_	_	_	***
+_	biomedical_sentence_0649	2	viser	_	_	_	***
+_	biomedical_sentence_0649	3	at	_	_	_	***
+_	biomedical_sentence_0649	4	mikroskopisk	_	_	_	***
+_	biomedical_sentence_0649	5	radikal	_	_	_	***
+_	biomedical_sentence_0649	6	operasjon	_	_	_	***
+_	biomedical_sentence_0649	7	er	_	_	_	***
+_	biomedical_sentence_0649	8	den	_	_	_	***
+_	biomedical_sentence_0649	9	viktigste	_	_	_	***
+_	biomedical_sentence_0649	10	faktor	_	_	_	***
+_	biomedical_sentence_0649	11	både	_	_	_	***
+_	biomedical_sentence_0649	12	med	_	_	_	***
+_	biomedical_sentence_0649	13	hensyn	_	_	_	***
+_	biomedical_sentence_0649	14	til	_	_	_	***
+_	biomedical_sentence_0649	15	overlevelse	_	_	_	***
+_	biomedical_sentence_0649	16	og	_	_	_	***
+_	biomedical_sentence_0649	17	lokalt	_	_	_	***
+_	biomedical_sentence_0649	18	residiv	_	_	_	***
+_	biomedical_sentence_0649	19	.	_	_	_	***
+
+_	biomedical_sentence_0728	0	Alle	_	_	_	***
+_	biomedical_sentence_0728	1	region-	_	_	_	***
+_	biomedical_sentence_0728	2	og	_	_	_	***
+_	biomedical_sentence_0728	3	sentralsykehus	_	_	_	***
+_	biomedical_sentence_0728	4	samt	_	_	_	***
+_	biomedical_sentence_0728	5	16	_	_	_	***
+_	biomedical_sentence_0728	6	av	_	_	_	***
+_	biomedical_sentence_0728	7	25	_	_	_	***
+_	biomedical_sentence_0728	8	lokalsykehus	_	_	_	***
+_	biomedical_sentence_0728	9	,	_	_	_	***
+_	biomedical_sentence_0728	10	benyttet	_	_	_	***
+_	biomedical_sentence_0728	11	magnetisk	_	_	_	***
+_	biomedical_sentence_0728	12	resonanstomografi	_	_	_	***
+_	biomedical_sentence_0728	13	av	_	_	_	***
+_	biomedical_sentence_0728	14	bekken	_	_	_	***
+_	biomedical_sentence_0728	15	i	_	_	_	***
+_	biomedical_sentence_0728	16	utredningen	_	_	_	***
+_	biomedical_sentence_0728	17	av	_	_	_	***
+_	biomedical_sentence_0728	18	residiv	_	_	_	***
+_	biomedical_sentence_0728	19	.	_	_	_	***
+
+_	biomedical_sentence_0735	0	â	_	_	_	***
+_	biomedical_sentence_0735	1	Det	_	_	_	***
+_	biomedical_sentence_0735	2	er	_	_	_	***
+_	biomedical_sentence_0735	3	tilnærmet	_	_	_	***
+_	biomedical_sentence_0735	4	like	_	_	_	***
+_	biomedical_sentence_0735	5	holdninger	_	_	_	***
+_	biomedical_sentence_0735	6	til	_	_	_	***
+_	biomedical_sentence_0735	7	utredning	_	_	_	***
+_	biomedical_sentence_0735	8	og	_	_	_	***
+_	biomedical_sentence_0735	9	behandling	_	_	_	***
+_	biomedical_sentence_0735	10	av	_	_	_	***
+_	biomedical_sentence_0735	11	denne	_	_	_	***
+_	biomedical_sentence_0735	12	tilstanden	_	_	_	***
+_	biomedical_sentence_0735	13	i	_	_	_	***
+_	biomedical_sentence_0735	14	Norge	_	_	_	***
+_	biomedical_sentence_0735	15	.	_	_	_	***
+
+_	biomedical_sentence_0780	0	Innlandet	_	_	_	***
+_	biomedical_sentence_0780	1	Lillehammer	_	_	_	***
+_	biomedical_sentence_0780	2	,	_	_	_	***
+_	biomedical_sentence_0780	3	Sykehuset	_	_	_	***
+_	biomedical_sentence_0780	4	Innlandet	_	_	_	***
+_	biomedical_sentence_0780	5	Tynset	_	_	_	***
+_	biomedical_sentence_0780	6	,	_	_	_	***
+_	biomedical_sentence_0780	7	Sykehuset	_	_	_	***
+_	biomedical_sentence_0780	8	Innlandet	_	_	_	***
+_	biomedical_sentence_0780	9	.	_	_	_	***
+
+_	biomedical_sentence_0783	0	Sykehusene	_	_	_	_	_	_
+_	biomedical_sentence_0783	1	er	_	_	_	_	_	_
+_	biomedical_sentence_0783	2	samstemte	_	_	_	_	_	_
+_	biomedical_sentence_0783	3	i	_	_	_	_	_	_
+_	biomedical_sentence_0783	4	at	_	_	_	_	_	_
+_	biomedical_sentence_0783	5	det	_	_	_	_	_	_
+_	biomedical_sentence_0783	6	er	_	_	_	_	_	_
+_	biomedical_sentence_0783	7	mulig	_	_	_	_	_	_
+_	biomedical_sentence_0783	8	å	_	_	_	_	_	_
+_	biomedical_sentence_0783	9	kurere	_	_	_	_	_	_
+_	biomedical_sentence_0783	10	pasienter	_	_	_	_	pasienter	_
+_	biomedical_sentence_0783	11	med	_	_	_	_	med	_
+_	biomedical_sentence_0783	12	lokalt	_	_	_	_	lokalt	_
+_	biomedical_sentence_0783	13	bekkenresidiv	_	_	_	_	bekkenresidiv	_
+_	biomedical_sentence_0783	14	som	_	_	_	_	_	_
+_	biomedical_sentence_0783	15	tidligere	_	_	_	_	tidligere	_
+_	biomedical_sentence_0783	16	er	_	_	_	_	er	_
+_	biomedical_sentence_0783	17	ubestrålt	_	_	_	u	bestrålt	_
+_	biomedical_sentence_0783	18	.	_	_	_	_	_	_
+
+_	biomedical_sentence_0787	0	Gevinst	_	_	_	***
+_	biomedical_sentence_0787	1	av	_	_	_	***
+_	biomedical_sentence_0787	2	preoperativ	_	_	_	***
+_	biomedical_sentence_0787	3	strålebehandling	_	_	_	***
+_	biomedical_sentence_0787	4	er	_	_	_	***
+_	biomedical_sentence_0787	5	vist	_	_	_	***
+_	biomedical_sentence_0787	6	i	_	_	_	***
+_	biomedical_sentence_0787	7	flere	_	_	_	***
+_	biomedical_sentence_0787	8	studier	_	_	_	***
+_	biomedical_sentence_0787	9	.	_	_	_	***
+
+_	biomedical_sentence_0811	0	27	_	_	_	***
+_	biomedical_sentence_0811	1	3105	_	_	_	***
+_	biomedical_sentence_0811	2	behandles	_	_	_	***
+_	biomedical_sentence_0811	3	.	_	_	_	***
+
+_	biomedical_sentence_0815	0	Da	_	_	_	***
+_	biomedical_sentence_0815	1	behandling	_	_	_	***
+_	biomedical_sentence_0815	2	av	_	_	_	***
+_	biomedical_sentence_0815	3	residiv	_	_	_	***
+_	biomedical_sentence_0815	4	er	_	_	_	***
+_	biomedical_sentence_0815	5	betydelig	_	_	_	***
+_	biomedical_sentence_0815	6	mer	_	_	_	***
+_	biomedical_sentence_0815	7	krevende	_	_	_	***
+_	biomedical_sentence_0815	8	enn	_	_	_	***
+_	biomedical_sentence_0815	9	primær	_	_	_	***
+_	biomedical_sentence_0815	10	cancer	_	_	_	***
+_	biomedical_sentence_0815	11	,	_	_	_	***
+_	biomedical_sentence_0815	12	er	_	_	_	***
+_	biomedical_sentence_0815	13	erfaring	_	_	_	***
+_	biomedical_sentence_0815	14	avgjørende	_	_	_	***
+_	biomedical_sentence_0815	15	for	_	_	_	***
+_	biomedical_sentence_0815	16	et	_	_	_	***
+_	biomedical_sentence_0815	17	godt	_	_	_	***
+_	biomedical_sentence_0815	18	resultat	_	_	_	***
+_	biomedical_sentence_0815	19	.	_	_	_	***
+
+_	biomedical_sentence_0818	0	Vi	_	_	_	_	Vi	_
+_	biomedical_sentence_0818	1	har	_	_	_	_	har	_
+_	biomedical_sentence_0818	2	ikke	_	_	_	ikke	_	_
+_	biomedical_sentence_0818	3	hatt	_	_	_	_	hatt	_
+_	biomedical_sentence_0818	4	mulighet	_	_	_	_	mulighet	_
+_	biomedical_sentence_0818	5	for	_	_	_	_	for	_
+_	biomedical_sentence_0818	6	å	_	_	_	_	å	_
+_	biomedical_sentence_0818	7	undersøke	_	_	_	_	undersøke	_
+_	biomedical_sentence_0818	8	behandlingsresultat	_	_	_	_	behandlingsresultat	_
+_	biomedical_sentence_0818	9	,	_	_	_	_	_	_
+_	biomedical_sentence_0818	10	kun	_	_	_	_	_	_
+_	biomedical_sentence_0818	11	synspunkter	_	_	_	_	_	_
+_	biomedical_sentence_0818	12	på	_	_	_	_	_	_
+_	biomedical_sentence_0818	13	håndtering	_	_	_	_	_	_
+_	biomedical_sentence_0818	14	.	_	_	_	_	_	_
+
+_	biomedical_sentence_0820	0	Dataregistrering	_	_	_	***
+_	biomedical_sentence_0820	1	og	_	_	_	***
+_	biomedical_sentence_0820	2	analyser	_	_	_	***
+_	biomedical_sentence_0820	3	i	_	_	_	***
+_	biomedical_sentence_0820	4	Colorectalcancerregisteret	_	_	_	***
+_	biomedical_sentence_0820	5	vil	_	_	_	***
+_	biomedical_sentence_0820	6	om	_	_	_	***
+_	biomedical_sentence_0820	7	noen	_	_	_	***
+_	biomedical_sentence_0820	8	år	_	_	_	***
+_	biomedical_sentence_0820	9	forhåpentlig	_	_	_	***
+_	biomedical_sentence_0820	10	kunne	_	_	_	***
+_	biomedical_sentence_0820	11	gi	_	_	_	***
+_	biomedical_sentence_0820	12	grunnlag	_	_	_	***
+_	biomedical_sentence_0820	13	for	_	_	_	***
+_	biomedical_sentence_0820	14	nærmere	_	_	_	***
+_	biomedical_sentence_0820	15	anbefaling	_	_	_	***
+_	biomedical_sentence_0820	16	for	_	_	_	***
+_	biomedical_sentence_0820	17	håndtering	_	_	_	***
+_	biomedical_sentence_0820	18	av	_	_	_	***
+_	biomedical_sentence_0820	19	denne	_	_	_	***
+_	biomedical_sentence_0820	20	utfordrende	_	_	_	***
+_	biomedical_sentence_0820	21	pasientgruppen	_	_	_	***
+_	biomedical_sentence_0820	22	.	_	_	_	***
+
+_	biomedical_sentence_0838	0	Alle	_	_	_	***
+_	biomedical_sentence_0838	1	49	_	_	_	***
+_	biomedical_sentence_0838	2	ble	_	_	_	***
+_	biomedical_sentence_0838	3	gastroskopert	_	_	_	***
+_	biomedical_sentence_0838	4	preoperativt	_	_	_	***
+_	biomedical_sentence_0838	5	,	_	_	_	***
+_	biomedical_sentence_0838	6	og	_	_	_	***
+_	biomedical_sentence_0838	7	det	_	_	_	***
+_	biomedical_sentence_0838	8	ble	_	_	_	***
+_	biomedical_sentence_0838	9	funnet	_	_	_	***
+_	biomedical_sentence_0838	10	Cameron-lesjoner	_	_	_	***
+_	biomedical_sentence_0838	11	hos	_	_	_	***
+_	biomedical_sentence_0838	12	44,9	_	_	_	***
+_	biomedical_sentence_0838	13	%	_	_	_	***
+_	biomedical_sentence_0838	14	.	_	_	_	***
+
+_	biomedical_sentence_0840	0	Konklusjon	_	_	_	***
+_	biomedical_sentence_0840	1	Sammenhengen	_	_	_	***
+_	biomedical_sentence_0840	2	mellom	_	_	_	***
+_	biomedical_sentence_0840	3	jernmangelanemi	_	_	_	***
+_	biomedical_sentence_0840	4	og	_	_	_	***
+_	biomedical_sentence_0840	5	hiatushernie	_	_	_	***
+_	biomedical_sentence_0840	6	er	_	_	_	***
+_	biomedical_sentence_0840	7	dokumentert	_	_	_	***
+_	biomedical_sentence_0840	8	,	_	_	_	***
+_	biomedical_sentence_0840	9	og	_	_	_	***
+_	biomedical_sentence_0840	10	Cameronlesjonene	_	_	_	***
+_	biomedical_sentence_0840	11	antas	_	_	_	***
+_	biomedical_sentence_0840	12	å	_	_	_	***
+_	biomedical_sentence_0840	13	være	_	_	_	***
+_	biomedical_sentence_0840	14	blødningskilden	_	_	_	***
+_	biomedical_sentence_0840	15	.	_	_	_	***
+
+_	biomedical_sentence_0860	0	Stridens	_	_	_	***
+_	biomedical_sentence_0860	1	kjerne	_	_	_	***
+_	biomedical_sentence_0860	2	var	_	_	_	***
+_	biomedical_sentence_0860	3	et	_	_	_	***
+_	biomedical_sentence_0860	4	forslag	_	_	_	***
+_	biomedical_sentence_0860	5	fra	_	_	_	***
+_	biomedical_sentence_0860	6	Det	_	_	_	***
+_	biomedical_sentence_0860	7	medisinske	_	_	_	***
+_	biomedical_sentence_0860	8	fakultet	_	_	_	***
+_	biomedical_sentence_0860	9	i	_	_	_	***
+_	biomedical_sentence_0860	10	Tromsø	_	_	_	***
+_	biomedical_sentence_0860	11	om	_	_	_	***
+_	biomedical_sentence_0860	12	å	_	_	_	***
+_	biomedical_sentence_0860	13	måle	_	_	_	***
+_	biomedical_sentence_0860	14	personlig	_	_	_	***
+_	biomedical_sentence_0860	15	egnethet	_	_	_	***
+_	biomedical_sentence_0860	16	ved	_	_	_	***
+_	biomedical_sentence_0860	17	hjelp	_	_	_	***
+_	biomedical_sentence_0860	18	av	_	_	_	***
+_	biomedical_sentence_0860	19	spørreskjema	_	_	_	***
+_	biomedical_sentence_0860	20	og	_	_	_	***
+_	biomedical_sentence_0860	21	intervju	_	_	_	***
+_	biomedical_sentence_0860	22	av	_	_	_	***
+_	biomedical_sentence_0860	23	søkerne	_	_	_	***
+_	biomedical_sentence_0860	24	.	_	_	_	***
+
+_	biomedical_sentence_0869	0	at	_	_	_	***
+_	biomedical_sentence_0869	1	de	_	_	_	***
+_	biomedical_sentence_0869	2	som	_	_	_	***
+_	biomedical_sentence_0869	3	blir	_	_	_	***
+_	biomedical_sentence_0869	4	valgt	_	_	_	***
+_	biomedical_sentence_0869	5	ut	_	_	_	***
+_	biomedical_sentence_0869	6	,	_	_	_	***
+_	biomedical_sentence_0869	7	gjennomfører	_	_	_	***
+_	biomedical_sentence_0869	8	utdanningen	_	_	_	***
+_	biomedical_sentence_0869	9	med	_	_	_	***
+_	biomedical_sentence_0869	10	godt	_	_	_	***
+_	biomedical_sentence_0869	11	resultat	_	_	_	***
+_	biomedical_sentence_0869	12	og	_	_	_	***
+_	biomedical_sentence_0869	13	enda	_	_	_	***
+_	biomedical_sentence_0869	14	viktigere	_	_	_	***
+_	biomedical_sentence_0869	15	får	_	_	_	***
+_	biomedical_sentence_0869	16	en	_	_	_	***
+_	biomedical_sentence_0869	17	etterfølgende	_	_	_	***
+_	biomedical_sentence_0869	18	vellykket	_	_	_	***
+_	biomedical_sentence_0869	19	karriere	_	_	_	***
+_	biomedical_sentence_0869	20	.	_	_	_	***
+
+_	biomedical_sentence_0870	0	Man	_	_	_	***
+_	biomedical_sentence_0870	1	skal	_	_	_	***
+_	biomedical_sentence_0870	2	altså	_	_	_	***
+_	biomedical_sentence_0870	3	selekteres	_	_	_	***
+_	biomedical_sentence_0870	4	både	_	_	_	***
+_	biomedical_sentence_0870	5	til	_	_	_	***
+_	biomedical_sentence_0870	6	utdanningen	_	_	_	***
+_	biomedical_sentence_0870	7	og	_	_	_	***
+_	biomedical_sentence_0870	8	profesjonen	_	_	_	***
+_	biomedical_sentence_0870	9	.	_	_	_	***
+
+_	biomedical_sentence_0891	0	Man	_	_	_	_	_	_
+_	biomedical_sentence_0891	1	må	_	_	_	_	_	_
+_	biomedical_sentence_0891	2	sjalte	_	_	_	_	_	_
+_	biomedical_sentence_0891	3	ut	_	_	_	_	_	_
+_	biomedical_sentence_0891	4	studenter	_	_	_	_	studenter	_
+_	biomedical_sentence_0891	5	som	_	_	_	_	_	_
+_	biomedical_sentence_0891	6	åpenbart	_	_	_	_	_	_
+_	biomedical_sentence_0891	7	er	_	_	_	_	er	_
+_	biomedical_sentence_0891	8	uegnet	_	_	_	u	egnet	_
+_	biomedical_sentence_0891	9	til	_	_	_	_	til	_
+_	biomedical_sentence_0891	10	å	_	_	_	_	å	_
+_	biomedical_sentence_0891	11	bli	_	_	_	_	bli	_
+_	biomedical_sentence_0891	12	lege	_	_	_	_	lege	_
+_	biomedical_sentence_0891	13	og	_	_	_	_	_	_
+_	biomedical_sentence_0891	14	for	_	_	_	_	_	_
+_	biomedical_sentence_0891	15	øvrig	_	_	_	_	_	_
+_	biomedical_sentence_0891	16	hjelpe	_	_	_	_	_	_
+_	biomedical_sentence_0891	17	,	_	_	_	_	_	_
+_	biomedical_sentence_0891	18	veilede	_	_	_	_	_	_
+_	biomedical_sentence_0891	19	og	_	_	_	_	_	_
+_	biomedical_sentence_0891	20	støtte	_	_	_	_	_	_
+_	biomedical_sentence_0891	21	.	_	_	_	_	_	_
+
+_	biomedical_sentence_0935	0	I	_	_	_	***
+_	biomedical_sentence_0935	1	en	_	_	_	***
+_	biomedical_sentence_0935	2	tidligere	_	_	_	***
+_	biomedical_sentence_0935	3	studie	_	_	_	***
+_	biomedical_sentence_0935	4	av	_	_	_	***
+_	biomedical_sentence_0935	5	hvordan	_	_	_	***
+_	biomedical_sentence_0935	6	norske	_	_	_	***
+_	biomedical_sentence_0935	7	medisinstudenters	_	_	_	***
+_	biomedical_sentence_0935	8	spesialitetspreferanser	_	_	_	***
+_	biomedical_sentence_0935	9	endret	_	_	_	***
+_	biomedical_sentence_0935	10	seg	_	_	_	***
+_	biomedical_sentence_0935	11	fra	_	_	_	***
+_	biomedical_sentence_0935	12	studiestart	_	_	_	***
+_	biomedical_sentence_0935	13	i	_	_	_	***
+_	biomedical_sentence_0935	14	1993	_	_	_	***
+_	biomedical_sentence_0935	15	til	_	_	_	***
+_	biomedical_sentence_0935	16	halvveis	_	_	_	***
+_	biomedical_sentence_0935	17	i	_	_	_	***
+_	biomedical_sentence_0935	18	studiet	_	_	_	***
+_	biomedical_sentence_0935	19	var	_	_	_	***
+_	biomedical_sentence_0935	20	hovedtendensen	_	_	_	***
+_	biomedical_sentence_0935	21	en	_	_	_	***
+_	biomedical_sentence_0935	22	bevegelse	_	_	_	***
+_	biomedical_sentence_0935	23	oppover	_	_	_	***
+_	biomedical_sentence_0935	24	i	_	_	_	***
+_	biomedical_sentence_0935	25	spesialitetshierarkiet	_	_	_	***
+_	biomedical_sentence_0935	26	.	_	_	_	***
+
+_	biomedical_sentence_0936	0	En	_	_	_	_	En	_
+_	biomedical_sentence_0936	1	ubalansert	_	_	_	u	balansert	_
+_	biomedical_sentence_0936	2	kohortstudie	_	_	_	_	kohortstudie	_
+_	biomedical_sentence_0936	3	er	_	_	_	_	_	_
+_	biomedical_sentence_0936	4	en	_	_	_	_	_	_
+_	biomedical_sentence_0936	5	prospektiv	_	_	_	_	_	_
+_	biomedical_sentence_0936	6	studie	_	_	_	_	_	_
+_	biomedical_sentence_0936	7	der	_	_	_	_	_	_
+_	biomedical_sentence_0936	8	det	_	_	_	_	_	_
+_	biomedical_sentence_0936	9	i	_	_	_	_	_	_
+_	biomedical_sentence_0936	10	løpet	_	_	_	_	_	_
+_	biomedical_sentence_0936	11	av	_	_	_	_	_	_
+_	biomedical_sentence_0936	12	studieperioden	_	_	_	_	_	_
+_	biomedical_sentence_0936	13	faller	_	_	_	_	_	_
+_	biomedical_sentence_0936	14	noen	_	_	_	_	_	_
+_	biomedical_sentence_0936	15	deltakere	_	_	_	_	_	_
+_	biomedical_sentence_0936	16	fra	_	_	_	_	_	_
+_	biomedical_sentence_0936	17	,	_	_	_	_	_	_
+_	biomedical_sentence_0936	18	mens	_	_	_	_	_	_
+_	biomedical_sentence_0936	19	andre	_	_	_	_	_	_
+_	biomedical_sentence_0936	20	kommer	_	_	_	_	_	_
+_	biomedical_sentence_0936	21	til	_	_	_	_	_	_
+_	biomedical_sentence_0936	22	.	_	_	_	_	_	_
+
+_	biomedical_sentence_0942	0	Album	_	_	_	***
+_	biomedical_sentence_0942	1	skåret	_	_	_	***
+_	biomedical_sentence_0942	2	bare	_	_	_	***
+_	biomedical_sentence_0942	3	22	_	_	_	***
+_	biomedical_sentence_0942	4	spesialiteter	_	_	_	***
+_	biomedical_sentence_0942	5	og	_	_	_	***
+_	biomedical_sentence_0942	6	grenspesialiteter	_	_	_	***
+_	biomedical_sentence_0942	7	,	_	_	_	***
+_	biomedical_sentence_0942	8	de	_	_	_	***
+_	biomedical_sentence_0942	9	som	_	_	_	***
+_	biomedical_sentence_0942	10	er	_	_	_	***
+_	biomedical_sentence_0942	11	merket	_	_	_	***
+_	biomedical_sentence_0942	12	med	_	_	_	***
+_	biomedical_sentence_0942	13	stjerne	_	_	_	***
+_	biomedical_sentence_0942	14	i	_	_	_	***
+_	biomedical_sentence_0942	15	tabellen	_	_	_	***
+_	biomedical_sentence_0942	16	.	_	_	_	***
+
+_	biomedical_sentence_0975	0	En	_	_	_	_	_	_
+_	biomedical_sentence_0975	1	annen	_	_	_	_	_	_
+_	biomedical_sentence_0975	2	styrke	_	_	_	_	_	_
+_	biomedical_sentence_0975	3	ved	_	_	_	_	_	_
+_	biomedical_sentence_0975	4	studien	_	_	_	_	_	_
+_	biomedical_sentence_0975	5	er	_	_	_	_	_	_
+_	biomedical_sentence_0975	6	at	_	_	_	_	_	_
+_	biomedical_sentence_0975	7	den	_	_	_	_	den	_
+_	biomedical_sentence_0975	8	omfatter	_	_	_	_	omfatter	_
+_	biomedical_sentence_0975	9	fullstendige	_	_	_	_	_	_
+_	biomedical_sentence_0975	10	kohorter	_	_	_	_	_	_
+_	biomedical_sentence_0975	11	av	_	_	_	_	_	_
+_	biomedical_sentence_0975	12	norske	_	_	_	_	_	_
+_	biomedical_sentence_0975	13	studenter	_	_	_	_	_	_
+_	biomedical_sentence_0975	14	og	_	_	_	_	_	_
+_	biomedical_sentence_0975	15	leger	_	_	_	_	_	_
+_	biomedical_sentence_0975	16	,	_	_	_	_	_	_
+_	biomedical_sentence_0975	17	ikke	_	_	_	ikke	_	_
+_	biomedical_sentence_0975	18	tilfeldige	_	_	_	_	tilfeldige	_
+_	biomedical_sentence_0975	19	eller	_	_	_	_	eller	_
+_	biomedical_sentence_0975	20	stratifiserte	_	_	_	_	stratifiserte	_
+_	biomedical_sentence_0975	21	utvalg	_	_	_	_	utvalg	_
+_	biomedical_sentence_0975	22	.	_	_	_	_	_	_
+
+_	biomedical_sentence_0987	0	Dette	_	_	_	***
+_	biomedical_sentence_0987	1	kan	_	_	_	***
+_	biomedical_sentence_0987	2	også	_	_	_	***
+_	biomedical_sentence_0987	3	henge	_	_	_	***
+_	biomedical_sentence_0987	4	sammen	_	_	_	***
+_	biomedical_sentence_0987	5	med	_	_	_	***
+_	biomedical_sentence_0987	6	et	_	_	_	***
+_	biomedical_sentence_0987	7	relativt	_	_	_	***
+_	biomedical_sentence_0987	8	stort	_	_	_	***
+_	biomedical_sentence_0987	9	antall	_	_	_	***
+_	biomedical_sentence_0987	10	nyopprettede	_	_	_	***
+_	biomedical_sentence_0987	11	utdanningsstillinger	_	_	_	***
+_	biomedical_sentence_0987	12	som	_	_	_	***
+_	biomedical_sentence_0987	13	er	_	_	_	***
+_	biomedical_sentence_0987	14	kommet	_	_	_	***
+_	biomedical_sentence_0987	15	i	_	_	_	***
+_	biomedical_sentence_0987	16	forbindelse	_	_	_	***
+_	biomedical_sentence_0987	17	med	_	_	_	***
+_	biomedical_sentence_0987	18	opptrappingsplanen	_	_	_	***
+_	biomedical_sentence_0987	19	i	_	_	_	***
+_	biomedical_sentence_0987	20	psykiatri	_	_	_	***
+_	biomedical_sentence_0987	21	.	_	_	_	***
+
+_	biomedical_sentence_1029	0	Ustandardiserte	_	_	_	U	standardiserte	_
+_	biomedical_sentence_1029	1	betaverdier	_	_	_	_	betaverdier	_
+_	biomedical_sentence_1029	2	som	_	_	_	_	_	_
+_	biomedical_sentence_1029	3	angir	_	_	_	_	_	_
+_	biomedical_sentence_1029	4	størrelse	_	_	_	_	_	_
+_	biomedical_sentence_1029	5	og	_	_	_	_	_	_
+_	biomedical_sentence_1029	6	retning	_	_	_	_	_	_
+_	biomedical_sentence_1029	7	på	_	_	_	_	_	_
+_	biomedical_sentence_1029	8	endring	_	_	_	_	_	_
+_	biomedical_sentence_1029	9	i	_	_	_	_	_	_
+_	biomedical_sentence_1029	10	skår	_	_	_	_	_	_
+_	biomedical_sentence_1029	11	på	_	_	_	_	_	_
+_	biomedical_sentence_1029	12	motivområde	_	_	_	_	_	_
+_	biomedical_sentence_1029	13	,	_	_	_	_	_	_
+_	biomedical_sentence_1029	14	med	_	_	_	_	_	_
+_	biomedical_sentence_1029	15	tilhørende	_	_	_	_	_	_
+_	biomedical_sentence_1029	16	p-verdier	_	_	_	_	_	_
+_	biomedical_sentence_1029	17	.	_	_	_	_	_	_
+
+_	biomedical_sentence_1044	0	I	_	_	_	_	_	_
+_	biomedical_sentence_1044	1	den	_	_	_	_	_	_
+_	biomedical_sentence_1044	2	nye	_	_	_	_	_	_
+_	biomedical_sentence_1044	3	ordningen	_	_	_	_	_	_
+_	biomedical_sentence_1044	4	må	_	_	_	_	_	_
+_	biomedical_sentence_1044	5	de	_	_	_	_	_	_
+_	biomedical_sentence_1044	6	medisinskfaglig	_	_	_	_	_	_
+_	biomedical_sentence_1044	7	ansvarlige	_	_	_	_	_	_
+_	biomedical_sentence_1044	8	i	_	_	_	_	_	_
+_	biomedical_sentence_1044	9	større	_	_	_	_	_	_
+_	biomedical_sentence_1044	10	grad	_	_	_	_	_	_
+_	biomedical_sentence_1044	11	forholde	_	_	_	_	_	_
+_	biomedical_sentence_1044	12	seg	_	_	_	_	_	_
+_	biomedical_sentence_1044	13	til	_	_	_	_	_	_
+_	biomedical_sentence_1044	14	profesjonelle	_	_	_	_	profesjonelle	_
+_	biomedical_sentence_1044	15	ledere	_	_	_	_	ledere	_
+_	biomedical_sentence_1044	16	uten	_	_	_	uten	_	_
+_	biomedical_sentence_1044	17	medisinsk	_	_	_	_	medisinsk	_
+_	biomedical_sentence_1044	18	kompetanse	_	_	_	_	kompetanse	_
+_	biomedical_sentence_1044	19	.	_	_	_	_	_	_
+
+_	biomedical_sentence_1054	0	Materiale	_	_	_	***
+_	biomedical_sentence_1054	1	og	_	_	_	***
+_	biomedical_sentence_1054	2	metode	_	_	_	***
+_	biomedical_sentence_1054	3	Legeforeningens	_	_	_	***
+_	biomedical_sentence_1054	4	forskningsinstitutt	_	_	_	***
+_	biomedical_sentence_1054	5	har	_	_	_	***
+_	biomedical_sentence_1054	6	opprettet	_	_	_	***
+_	biomedical_sentence_1054	7	et	_	_	_	***
+_	biomedical_sentence_1054	8	referansepanel	_	_	_	***
+_	biomedical_sentence_1054	9	på	_	_	_	***
+_	biomedical_sentence_1054	10	rundt	_	_	_	***
+_	biomedical_sentence_1054	11	1	_	_	_	***
+_	biomedical_sentence_1054	12	600	_	_	_	***
+_	biomedical_sentence_1054	13	leger	_	_	_	***
+_	biomedical_sentence_1054	14	som	_	_	_	***
+_	biomedical_sentence_1054	15	annethvert	_	_	_	***
+_	biomedical_sentence_1054	16	år	_	_	_	***
+_	biomedical_sentence_1054	17	får	_	_	_	***
+_	biomedical_sentence_1054	18	tilsendt	_	_	_	***
+_	biomedical_sentence_1054	19	et	_	_	_	***
+_	biomedical_sentence_1054	20	skjema	_	_	_	***
+_	biomedical_sentence_1054	21	med	_	_	_	***
+_	biomedical_sentence_1054	22	spørsmål	_	_	_	***
+_	biomedical_sentence_1054	23	om	_	_	_	***
+_	biomedical_sentence_1054	24	helse	_	_	_	***
+_	biomedical_sentence_1054	25	,	_	_	_	***
+_	biomedical_sentence_1054	26	arbeidsforhold	_	_	_	***
+_	biomedical_sentence_1054	27	og	_	_	_	***
+_	biomedical_sentence_1054	28	aktuelle	_	_	_	***
+_	biomedical_sentence_1054	29	helsepolitiske	_	_	_	***
+_	biomedical_sentence_1054	30	problemstillinger	_	_	_	***
+_	biomedical_sentence_1054	31	.	_	_	_	***
+
+_	biomedical_sentence_1061	0	Den	_	_	_	***
+_	biomedical_sentence_1061	1	som	_	_	_	***
+_	biomedical_sentence_1061	2	kritiserer	_	_	_	***
+_	biomedical_sentence_1061	3	sykehuset	_	_	_	***
+_	biomedical_sentence_1061	4	,	_	_	_	***
+_	biomedical_sentence_1061	5	risikerersanksjoner	_	_	_	***
+_	biomedical_sentence_1061	6	fra	_	_	_	***
+_	biomedical_sentence_1061	7	den	_	_	_	***
+_	biomedical_sentence_1061	8	administrative	_	_	_	***
+_	biomedical_sentence_1061	9	ledelsen	_	_	_	***
+_	biomedical_sentence_1061	10	.	_	_	_	***
+
+_	biomedical_sentence_1065__2	0	En	_	_	_	***
+_	biomedical_sentence_1065__2	1	del	_	_	_	***
+_	biomedical_sentence_1065__2	2	av	_	_	_	***
+_	biomedical_sentence_1065__2	3	forklaringen	_	_	_	***
+_	biomedical_sentence_1065__2	4	kan	_	_	_	***
+_	biomedical_sentence_1065__2	5	være	_	_	_	***
+_	biomedical_sentence_1065__2	6	at	_	_	_	***
+_	biomedical_sentence_1065__2	7	arbeidsorganisasjonen	_	_	_	***
+_	biomedical_sentence_1065__2	8	forventer	_	_	_	***
+_	biomedical_sentence_1065__2	9	mer	_	_	_	***
+_	biomedical_sentence_1065__2	10	lojalitet	_	_	_	***
+_	biomedical_sentence_1065__2	11	og	_	_	_	***
+_	biomedical_sentence_1065__2	12	mindre	_	_	_	***
+_	biomedical_sentence_1065__2	13	kritikk	_	_	_	***
+
+_	biomedical_sentence_1065__3	0	Det	_	_	_	_	_	_
+_	biomedical_sentence_1065__3	1	er	_	_	_	_	_	_
+_	biomedical_sentence_1065__3	2	viktig	_	_	_	_	_	_
+_	biomedical_sentence_1065__3	3	for	_	_	_	_	_	_
+_	biomedical_sentence_1065__3	4	pasientsikkerheten	_	_	_	_	_	_
+_	biomedical_sentence_1065__3	5	og	_	_	_	_	_	_
+_	biomedical_sentence_1065__3	6	arbeidsmiljøet	_	_	_	_	_	_
+_	biomedical_sentence_1065__3	7	at	_	_	_	_	_	_
+_	biomedical_sentence_1065__3	8	legene	_	_	_	_	_	_
+_	biomedical_sentence_1065__3	9	ikke	_	_	_	ikke	_	_
+_	biomedical_sentence_1065__3	10	mener	_	_	_	_	_	_
+_	biomedical_sentence_1065__3	11	den	_	_	_	_	den	_
+_	biomedical_sentence_1065__3	12	faglige	_	_	_	_	faglige	_
+_	biomedical_sentence_1065__3	13	ytringsfriheten	_	_	_	_	ytringsfriheten	_
+_	biomedical_sentence_1065__3	14	er	_	_	_	_	er	_
+_	biomedical_sentence_1065__3	15	begrenset	_	_	_	_	begrenset	_
+
+_	biomedical_sentence_1077	0	I	_	_	_	***
+_	biomedical_sentence_1077	1	2004	_	_	_	***
+_	biomedical_sentence_1077	2	var	_	_	_	***
+_	biomedical_sentence_1077	3	det	_	_	_	***
+_	biomedical_sentence_1077	4	1	_	_	_	***
+_	biomedical_sentence_1077	5	005	_	_	_	***
+_	biomedical_sentence_1077	6	som	_	_	_	***
+_	biomedical_sentence_1077	7	svarte	_	_	_	***
+_	biomedical_sentence_1077	8	,	_	_	_	***
+_	biomedical_sentence_1077	9	dvs.	_	_	_	***
+
+_	biomedical_sentence_1078	0	en	_	_	_	***
+_	biomedical_sentence_1078	1	svarandel	_	_	_	***
+_	biomedical_sentence_1078	2	på	_	_	_	***
+_	biomedical_sentence_1078	3	67	_	_	_	***
+_	biomedical_sentence_1078	4	%	_	_	_	***
+_	biomedical_sentence_1078	5	.	_	_	_	***
+
+_	biomedical_sentence_1095	0	Antall	_	_	_	***
+_	biomedical_sentence_1095	1	respondenter	_	_	_	***
+_	biomedical_sentence_1095	2	i	_	_	_	***
+_	biomedical_sentence_1095	3	parentes	_	_	_	***
+_	biomedical_sentence_1095	4	.	_	_	_	***
+
+_	biomedical_sentence_1102	0	En	_	_	_	_	_	_
+_	biomedical_sentence_1102	1	slik	_	_	_	_	_	_
+_	biomedical_sentence_1102	2	kultur	_	_	_	_	_	_
+_	biomedical_sentence_1102	3	vil	_	_	_	_	_	_
+_	biomedical_sentence_1102	4	lettere	_	_	_	_	_	_
+_	biomedical_sentence_1102	5	gjøre	_	_	_	_	_	_
+_	biomedical_sentence_1102	6	gode	_	_	_	_	_	_
+_	biomedical_sentence_1102	7	kolleger	_	_	_	_	_	_
+_	biomedical_sentence_1102	8	som	_	_	_	_	_	_
+_	biomedical_sentence_1102	9	er	_	_	_	_	_	_
+_	biomedical_sentence_1102	10	opptatt	_	_	_	_	_	_
+_	biomedical_sentence_1102	11	av	_	_	_	_	_	_
+_	biomedical_sentence_1102	12	kvalitet	_	_	_	_	_	_
+_	biomedical_sentence_1102	13	og	_	_	_	_	_	_
+_	biomedical_sentence_1102	14	etikk	_	_	_	_	_	_
+_	biomedical_sentence_1102	15	til	_	_	_	_	_	_
+_	biomedical_sentence_1102	16	ufrivillige	_	_	_	u	frivillige	_
+_	biomedical_sentence_1102	17	varslere	_	_	_	_	varslere	_
+_	biomedical_sentence_1102	18	.	_	_	_	_	_	_
+
+_	biomedical_sentence_1127	0	Det	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1127	1	varierende	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1127	2	antallet	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1127	3	respondenter	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1127	4	på	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1127	5	hvert	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1127	6	utsagn	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1127	7	skyldes	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1127	8	at	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1127	9	de	_	_	_	_	_	_	_	de	_
+_	biomedical_sentence_1127	10	som	_	_	_	_	_	_	_	som	_
+_	biomedical_sentence_1127	11	svarte	_	_	_	_	_	_	_	svarte	_
+_	biomedical_sentence_1127	12	passer	_	_	_	_	passer	_	_	passer	_
+_	biomedical_sentence_1127	13	ikke	_	_	_	ikke	_	_	_	ikke	_
+_	biomedical_sentence_1127	14	for	_	_	_	_	for	_	_	for	_
+_	biomedical_sentence_1127	15	meg	_	_	_	_	meg	_	_	meg	_
+_	biomedical_sentence_1127	16	er	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1127	17	utelatt	_	_	_	_	_	_	utelatt	_	_
+_	biomedical_sentence_1127	18	.	_	_	_	_	_	_	_	_	_
+
+_	biomedical_sentence_1135	0	Artikkelen	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	1	er	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	2	basert	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	3	på	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	4	en	_	_	_	_	en	_	_	_	_
+_	biomedical_sentence_1135	5	ikke-systematisk	_	_	_	ikke-	systematisk	_	_	_	_
+_	biomedical_sentence_1135	6	gjennomgang	_	_	_	_	gjennomgang	_	_	_	_
+_	biomedical_sentence_1135	7	av	_	_	_	_	av	_	_	_	_
+_	biomedical_sentence_1135	8	aktuell	_	_	_	_	aktuell	_	_	_	_
+_	biomedical_sentence_1135	9	litteratur	_	_	_	_	litteratur	_	_	_	_
+_	biomedical_sentence_1135	10	og	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	11	klinisk	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	12	erfaring	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	13	fra	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	14	vårt	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	15	fagmiljø	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	16	,	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	17	med	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	18	søkelys	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	19	på	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	20	utredning	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	21	for	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	22	anal	_	_	_	_	_	_	_	_	_
+_	biomedical_sentence_1135	23	inkontinens	_	_	_	_	_	_	in	kontinens	_
+_	biomedical_sentence_1135	24	.	_	_	_	_	_	_	_	_	_
+
+_	biomedical_sentence_1152	0	Personer	_	_	_	_	_	_
+_	biomedical_sentence_1152	1	med	_	_	_	_	_	_
+_	biomedical_sentence_1152	2	anal	_	_	_	_	_	_
+_	biomedical_sentence_1152	3	inkontinens	_	_	_	in	kontinens	_
+_	biomedical_sentence_1152	4	lever	_	_	_	_	_	_
+_	biomedical_sentence_1152	5	ofte	_	_	_	_	_	_
+_	biomedical_sentence_1152	6	i	_	_	_	_	_	_
+_	biomedical_sentence_1152	7	konstant	_	_	_	_	_	_
+_	biomedical_sentence_1152	8	frykt	_	_	_	_	_	_
+_	biomedical_sentence_1152	9	for	_	_	_	_	_	_
+_	biomedical_sentence_1152	10	at	_	_	_	_	_	_
+_	biomedical_sentence_1152	11	lukt	_	_	_	_	_	_
+_	biomedical_sentence_1152	12	skal	_	_	_	_	_	_
+_	biomedical_sentence_1152	13	kjennes	_	_	_	_	_	_
+_	biomedical_sentence_1152	14	i	_	_	_	_	_	_
+_	biomedical_sentence_1152	15	omgivelsene	_	_	_	_	_	_
+_	biomedical_sentence_1152	16	.	_	_	_	_	_	_
+
+_	biomedical_sentence_1178	0	Skåringssystemene	_	_	_	***
+_	biomedical_sentence_1178	1	korrelerer	_	_	_	***
+_	biomedical_sentence_1178	2	godt	_	_	_	***
+_	biomedical_sentence_1178	3	med	_	_	_	***
+_	biomedical_sentence_1178	4	klinikerens	_	_	_	***
+_	biomedical_sentence_1178	5	inntrykk	_	_	_	***
+_	biomedical_sentence_1178	6	av	_	_	_	***
+_	biomedical_sentence_1178	7	alvorlighetsgrad	_	_	_	***
+_	biomedical_sentence_1178	8	.	_	_	_	***
+
+_	biomedical_sentence_1183	0	Klinisk	_	_	_	_	_	_
+_	biomedical_sentence_1183	1	undersøkelse	_	_	_	_	_	_
+_	biomedical_sentence_1183	2	Ofte	_	_	_	_	_	_
+_	biomedical_sentence_1183	3	kan	_	_	_	_	_	_
+_	biomedical_sentence_1183	4	den	_	_	_	_	_	_
+_	biomedical_sentence_1183	5	klinisk	_	_	_	_	_	_
+_	biomedical_sentence_1183	6	undersøkelsen	_	_	_	_	_	_
+_	biomedical_sentence_1183	7	bidra	_	_	_	_	_	_
+_	biomedical_sentence_1183	8	til	_	_	_	_	_	_
+_	biomedical_sentence_1183	9	å	_	_	_	_	_	_
+_	biomedical_sentence_1183	10	klarlegge	_	_	_	_	_	_
+_	biomedical_sentence_1183	11	årsaken	_	_	_	_	_	_
+_	biomedical_sentence_1183	12	til	_	_	_	_	_	_
+_	biomedical_sentence_1183	13	inkontinens	_	_	_	in	kontinens	_
+_	biomedical_sentence_1183	14	.	_	_	_	_	_	_
+
+_	biomedical_sentence_1192	0	Funn	_	_	_	***
+_	biomedical_sentence_1192	1	av	_	_	_	***
+_	biomedical_sentence_1192	2	ulcus	_	_	_	***
+_	biomedical_sentence_1192	3	simplex	_	_	_	***
+_	biomedical_sentence_1192	4	i	_	_	_	***
+_	biomedical_sentence_1192	5	rectum	_	_	_	***
+_	biomedical_sentence_1192	6	bør	_	_	_	***
+_	biomedical_sentence_1192	7	føre	_	_	_	***
+_	biomedical_sentence_1192	8	til	_	_	_	***
+_	biomedical_sentence_1192	9	mistanke	_	_	_	***
+_	biomedical_sentence_1192	10	om	_	_	_	***
+_	biomedical_sentence_1192	11	en	_	_	_	***
+_	biomedical_sentence_1192	12	intern	_	_	_	***
+_	biomedical_sentence_1192	13	rektalprolaps	_	_	_	***
+_	biomedical_sentence_1192	14	,	_	_	_	***
+_	biomedical_sentence_1192	15	og	_	_	_	***
+_	biomedical_sentence_1192	16	bør	_	_	_	***
+_	biomedical_sentence_1192	17	utredes	_	_	_	***
+_	biomedical_sentence_1192	18	videre	_	_	_	***
+_	biomedical_sentence_1192	19	med	_	_	_	***
+_	biomedical_sentence_1192	20	røntgen	_	_	_	***
+_	biomedical_sentence_1192	21	defekografi	_	_	_	***
+_	biomedical_sentence_1192	22	.	_	_	_	***
+
+_	biomedical_sentence_1202	0	Hvis	_	_	_	***
+_	biomedical_sentence_1202	1	det	_	_	_	***
+_	biomedical_sentence_1202	2	er	_	_	_	***
+_	biomedical_sentence_1202	3	behov	_	_	_	***
+_	biomedical_sentence_1202	4	for	_	_	_	***
+_	biomedical_sentence_1202	5	å	_	_	_	***
+_	biomedical_sentence_1202	6	kartlegge	_	_	_	***
+_	biomedical_sentence_1202	7	bekkenbunnen	_	_	_	***
+_	biomedical_sentence_1202	8	ytterligere	_	_	_	***
+_	biomedical_sentence_1202	9	,	_	_	_	***
+_	biomedical_sentence_1202	10	er	_	_	_	***
+_	biomedical_sentence_1202	11	MR	_	_	_	***
+_	biomedical_sentence_1202	12	å	_	_	_	***
+_	biomedical_sentence_1202	13	foretrekke	_	_	_	***
+_	biomedical_sentence_1202	14	.	_	_	_	***
+
+_	biomedical_sentence_1221	0	Rektal	_	_	_	***
+_	biomedical_sentence_1221	1	kapasitetsmåling	_	_	_	***
+_	biomedical_sentence_1221	2	Kapasitet	_	_	_	***
+_	biomedical_sentence_1221	3	måles	_	_	_	***
+_	biomedical_sentence_1221	4	best	_	_	_	***
+_	biomedical_sentence_1221	5	ved	_	_	_	***
+_	biomedical_sentence_1221	6	et	_	_	_	***
+_	biomedical_sentence_1221	7	oppsett	_	_	_	***
+_	biomedical_sentence_1221	8	hvor	_	_	_	***
+_	biomedical_sentence_1221	9	en	_	_	_	***
+_	biomedical_sentence_1221	10	intrarektal	_	_	_	***
+_	biomedical_sentence_1221	11	ballong	_	_	_	***
+_	biomedical_sentence_1221	12	fylles	_	_	_	***
+_	biomedical_sentence_1221	13	med	_	_	_	***
+_	biomedical_sentence_1221	14	luft	_	_	_	***
+_	biomedical_sentence_1221	15	eller	_	_	_	***
+_	biomedical_sentence_1221	16	vann	_	_	_	***
+_	biomedical_sentence_1221	17	av	_	_	_	***
+_	biomedical_sentence_1221	18	en	_	_	_	***
+_	biomedical_sentence_1221	19	tilkoblet	_	_	_	***
+_	biomedical_sentence_1221	20	trykk-	_	_	_	***
+_	biomedical_sentence_1221	21	og	_	_	_	***
+_	biomedical_sentence_1221	22	volummåler	_	_	_	***
+_	biomedical_sentence_1221	23	.	_	_	_	***
+
+_	biomedical_sentence_1263	0	I	_	_	_	***
+_	biomedical_sentence_1263	1	denne	_	_	_	***
+_	biomedical_sentence_1263	2	studien	_	_	_	***
+_	biomedical_sentence_1263	3	sammenliknes	_	_	_	***
+_	biomedical_sentence_1263	4	korttidsresultatene	_	_	_	***
+_	biomedical_sentence_1263	5	fra	_	_	_	***
+_	biomedical_sentence_1263	6	to	_	_	_	***
+_	biomedical_sentence_1263	7	femårsperioder	_	_	_	***
+_	biomedical_sentence_1263	8	.	_	_	_	***
+
+_	biomedical_sentence_1284	0	Dette	_	_	_	***
+_	biomedical_sentence_1284	1	ble	_	_	_	***
+_	biomedical_sentence_1284	2	etter	_	_	_	***
+_	biomedical_sentence_1284	3	en	_	_	_	***
+_	biomedical_sentence_1284	4	fatal	_	_	_	***
+_	biomedical_sentence_1284	5	komplikasjon	_	_	_	***
+_	biomedical_sentence_1284	6	endret	_	_	_	***
+_	biomedical_sentence_1284	7	til	_	_	_	***
+_	biomedical_sentence_1284	8	semiåpen	_	_	_	***
+_	biomedical_sentence_1284	9	teknikk	_	_	_	***
+_	biomedical_sentence_1284	10	gjennom	_	_	_	***
+_	biomedical_sentence_1284	11	umbilicus	_	_	_	***
+_	biomedical_sentence_1284	12	.	_	_	_	***
+
+_	biomedical_sentence_1292	0	I	_	_	_	***
+_	biomedical_sentence_1292	1	tillegg	_	_	_	***
+_	biomedical_sentence_1292	2	er	_	_	_	***
+_	biomedical_sentence_1292	3	spredningen	_	_	_	***
+_	biomedical_sentence_1292	4	oppgitt	_	_	_	***
+_	biomedical_sentence_1292	5	der	_	_	_	***
+_	biomedical_sentence_1292	6	det	_	_	_	***
+_	biomedical_sentence_1292	7	måtte	_	_	_	***
+_	biomedical_sentence_1292	8	være	_	_	_	***
+_	biomedical_sentence_1292	9	av	_	_	_	***
+_	biomedical_sentence_1292	10	særlig	_	_	_	***
+_	biomedical_sentence_1292	11	interesse	_	_	_	***
+_	biomedical_sentence_1292	12	.	_	_	_	***
+
+_	biomedical_sentence_1308	0	Liggetid	_	_	_	***
+_	biomedical_sentence_1308	1	En	_	_	_	***
+_	biomedical_sentence_1308	2	signifikant	_	_	_	***
+_	biomedical_sentence_1308	3	nedgang	_	_	_	***
+_	biomedical_sentence_1308	4	i	_	_	_	***
+_	biomedical_sentence_1308	5	liggetid	_	_	_	***
+_	biomedical_sentence_1308	6	ble	_	_	_	***
+_	biomedical_sentence_1308	7	observert	_	_	_	***
+_	biomedical_sentence_1308	8	fra	_	_	_	***
+_	biomedical_sentence_1308	9	første	_	_	_	***
+_	biomedical_sentence_1308	10	til	_	_	_	***
+_	biomedical_sentence_1308	11	siste	_	_	_	***
+_	biomedical_sentence_1308	12	periode	_	_	_	***
+_	biomedical_sentence_1308	13	for	_	_	_	***
+_	biomedical_sentence_1308	14	laparoskopiske	_	_	_	***
+_	biomedical_sentence_1308	15	inngrep	_	_	_	***
+_	biomedical_sentence_1308	16	.	_	_	_	***
+
+_	biomedical_sentence_1314	0	I	_	_	_	***
+_	biomedical_sentence_1314	1	første	_	_	_	***
+_	biomedical_sentence_1314	2	periode	_	_	_	***
+_	biomedical_sentence_1314	3	døde	_	_	_	***
+_	biomedical_sentence_1314	4	en	_	_	_	***
+_	biomedical_sentence_1314	5	86	_	_	_	***
+_	biomedical_sentence_1314	6	år	_	_	_	***
+_	biomedical_sentence_1314	7	gammel	_	_	_	***
+_	biomedical_sentence_1314	8	kvinne	_	_	_	***
+_	biomedical_sentence_1314	9	av	_	_	_	***
+_	biomedical_sentence_1314	10	postoperativt	_	_	_	***
+_	biomedical_sentence_1314	11	myokardinfarkt	_	_	_	***
+_	biomedical_sentence_1314	12	.	_	_	_	***
+
+_	biomedical_sentence_1317	0	Inngrepet	_	_	_	_	_	_
+_	biomedical_sentence_1317	1	ble	_	_	_	_	_	_
+_	biomedical_sentence_1317	2	gjennomført	_	_	_	_	_	_
+_	biomedical_sentence_1317	3	uten	_	_	_	uten	_	_
+_	biomedical_sentence_1317	4	at	_	_	_	_	at	_
+_	biomedical_sentence_1317	5	det	_	_	_	_	det	_
+_	biomedical_sentence_1317	6	fremkom	_	_	_	_	fremkom	_
+_	biomedical_sentence_1317	7	tegn	_	_	_	_	tegn	_
+_	biomedical_sentence_1317	8	på	_	_	_	_	på	_
+_	biomedical_sentence_1317	9	blødning	_	_	_	_	blødning	_
+_	biomedical_sentence_1317	10	,	_	_	_	_	_	_
+_	biomedical_sentence_1317	11	men	_	_	_	_	_	_
+_	biomedical_sentence_1317	12	etter	_	_	_	_	_	_
+_	biomedical_sentence_1317	13	ekssuflering	_	_	_	_	_	_
+_	biomedical_sentence_1317	14	av	_	_	_	_	_	_
+_	biomedical_sentence_1317	15	gassen	_	_	_	_	_	_
+_	biomedical_sentence_1317	16	utviklet	_	_	_	_	_	_
+_	biomedical_sentence_1317	17	pasienten	_	_	_	_	_	_
+_	biomedical_sentence_1317	18	sirkulasjonskollaps	_	_	_	_	_	_
+_	biomedical_sentence_1317	19	ogdøde	_	_	_	_	_	_
+_	biomedical_sentence_1317	20	til	_	_	_	_	_	_
+_	biomedical_sentence_1317	21	tross	_	_	_	_	_	_
+_	biomedical_sentence_1317	22	for	_	_	_	_	_	_
+_	biomedical_sentence_1317	23	umiddelbar	_	_	_	_	_	_
+_	biomedical_sentence_1317	24	laparotomi	_	_	_	_	_	_
+_	biomedical_sentence_1317	25	med	_	_	_	_	_	_
+_	biomedical_sentence_1317	26	sutur	_	_	_	_	_	_
+_	biomedical_sentence_1317	27	av	_	_	_	_	_	_
+_	biomedical_sentence_1317	28	den	_	_	_	_	_	_
+_	biomedical_sentence_1317	29	blødende	_	_	_	_	_	_
+_	biomedical_sentence_1317	30	lesjonen	_	_	_	_	_	_
+_	biomedical_sentence_1317	31	i	_	_	_	_	_	_
+_	biomedical_sentence_1317	32	abdominalaorta	_	_	_	_	_	_
+_	biomedical_sentence_1317	33	.	_	_	_	_	_	_
+
+_	biomedical_sentence_1322	0	Det	_	_	_	***
+_	biomedical_sentence_1322	1	dreide	_	_	_	***
+_	biomedical_sentence_1322	2	seg	_	_	_	***
+_	biomedical_sentence_1322	3	om	_	_	_	***
+_	biomedical_sentence_1322	4	mindre	_	_	_	***
+_	biomedical_sentence_1322	5	hull	_	_	_	***
+_	biomedical_sentence_1322	6	på	_	_	_	***
+_	biomedical_sentence_1322	7	overgangen	_	_	_	***
+_	biomedical_sentence_1322	8	mellom	_	_	_	***
+_	biomedical_sentence_1322	9	d.	_	_	_	***
+_	biomedical_sentence_1322	10	cysticus	_	_	_	***
+_	biomedical_sentence_1322	11	og	_	_	_	***
+_	biomedical_sentence_1322	12	d.	_	_	_	***
+_	biomedical_sentence_1322	13	choledochus	_	_	_	***
+_	biomedical_sentence_1322	14	.	_	_	_	***
+
+_	biomedical_sentence_1325	0	Den	_	_	_	***
+_	biomedical_sentence_1325	1	andre	_	_	_	***
+_	biomedical_sentence_1325	2	pasienten	_	_	_	***
+_	biomedical_sentence_1325	3	ble	_	_	_	***
+_	biomedical_sentence_1325	4	reinnlagt	_	_	_	***
+_	biomedical_sentence_1325	5	med	_	_	_	***
+_	biomedical_sentence_1325	6	peritonitt	_	_	_	***
+_	biomedical_sentence_1325	7	dagen	_	_	_	***
+_	biomedical_sentence_1325	8	etter	_	_	_	***
+_	biomedical_sentence_1325	9	operasjonen	_	_	_	***
+_	biomedical_sentence_1325	10	.	_	_	_	***
+
+_	biomedical_sentence_1348	0	Endringen	_	_	_	***
+_	biomedical_sentence_1348	1	kan	_	_	_	***
+_	biomedical_sentence_1348	2	skyldes	_	_	_	***
+_	biomedical_sentence_1348	3	at	_	_	_	***
+_	biomedical_sentence_1348	4	flere	_	_	_	***
+_	biomedical_sentence_1348	5	med	_	_	_	***
+_	biomedical_sentence_1348	6	gallesteinsrelaterte	_	_	_	***
+_	biomedical_sentence_1348	7	plager	_	_	_	***
+_	biomedical_sentence_1348	8	blir	_	_	_	***
+_	biomedical_sentence_1348	9	henvist	_	_	_	***
+_	biomedical_sentence_1348	10	til	_	_	_	***
+_	biomedical_sentence_1348	11	vurdering	_	_	_	***
+_	biomedical_sentence_1348	12	for	_	_	_	***
+_	biomedical_sentence_1348	13	operativ	_	_	_	***
+_	biomedical_sentence_1348	14	behandling	_	_	_	***
+_	biomedical_sentence_1348	15	fordi	_	_	_	***
+_	biomedical_sentence_1348	16	pasienter	_	_	_	***
+_	biomedical_sentence_1348	17	og	_	_	_	***
+_	biomedical_sentence_1348	18	henvisende	_	_	_	***
+_	biomedical_sentence_1348	19	leger	_	_	_	***
+_	biomedical_sentence_1348	20	oppfatter	_	_	_	***
+_	biomedical_sentence_1348	21	laparoskopisk	_	_	_	***
+_	biomedical_sentence_1348	22	kolecystektomi	_	_	_	***
+_	biomedical_sentence_1348	23	som	_	_	_	***
+_	biomedical_sentence_1348	24	en	_	_	_	***
+_	biomedical_sentence_1348	25	rask	_	_	_	***
+_	biomedical_sentence_1348	26	og	_	_	_	***
+_	biomedical_sentence_1348	27	enkel	_	_	_	***
+_	biomedical_sentence_1348	28	behandlingsmetode	_	_	_	***
+_	biomedical_sentence_1348	29	.	_	_	_	***
+
+_	biomedical_sentence_1381	0	Ets2	_	_	_	***
+_	biomedical_sentence_1381	1	regulerer	_	_	_	***
+_	biomedical_sentence_1381	2	også	_	_	_	***
+_	biomedical_sentence_1381	3	uttrykket	_	_	_	***
+_	biomedical_sentence_1381	4	av	_	_	_	***
+_	biomedical_sentence_1381	5	andre	_	_	_	***
+_	biomedical_sentence_1381	6	gener	_	_	_	***
+_	biomedical_sentence_1381	7	som	_	_	_	***
+_	biomedical_sentence_1381	8	forandrer	_	_	_	***
+_	biomedical_sentence_1381	9	ekstracellulær	_	_	_	***
+_	biomedical_sentence_1381	10	matriks	_	_	_	***
+_	biomedical_sentence_1381	11	på	_	_	_	***
+_	biomedical_sentence_1381	12	en	_	_	_	***
+_	biomedical_sentence_1381	13	måte	_	_	_	***
+_	biomedical_sentence_1381	14	som	_	_	_	***
+_	biomedical_sentence_1381	15	gir	_	_	_	***
+_	biomedical_sentence_1381	16	gunstige	_	_	_	***
+_	biomedical_sentence_1381	17	forhold	_	_	_	***
+_	biomedical_sentence_1381	18	for	_	_	_	***
+_	biomedical_sentence_1381	19	metastasering	_	_	_	***
+_	biomedical_sentence_1381	20	.	_	_	_	***
+
+_	biomedical_sentence_1391	0	Modningen	_	_	_	_	_	_
+_	biomedical_sentence_1391	1	av	_	_	_	_	_	_
+_	biomedical_sentence_1391	2	disse	_	_	_	_	_	_
+_	biomedical_sentence_1391	3	oocyttene	_	_	_	_	_	_
+_	biomedical_sentence_1391	4	var	_	_	_	_	_	_
+_	biomedical_sentence_1391	5	normal	_	_	_	_	_	_
+_	biomedical_sentence_1391	6	,	_	_	_	_	_	_
+_	biomedical_sentence_1391	7	men	_	_	_	_	_	_
+_	biomedical_sentence_1391	8	nukleoler	_	_	_	_	nukleoler	_
+_	biomedical_sentence_1391	9	ble	_	_	_	_	ble	_
+_	biomedical_sentence_1391	10	ikke	_	_	_	ikke	_	_
+_	biomedical_sentence_1391	11	observert	_	_	_	_	observert	_
+_	biomedical_sentence_1391	12	i	_	_	_	_	i	_
+_	biomedical_sentence_1391	13	pronukleuser	_	_	_	_	pronukleuser	_
+_	biomedical_sentence_1391	14	fra	_	_	_	_	fra	_
+_	biomedical_sentence_1391	15	oocyttene	_	_	_	_	oocyttene	_
+_	biomedical_sentence_1391	16	i	_	_	_	_	i	_
+_	biomedical_sentence_1391	17	zygoten	_	_	_	_	zygoten	_
+_	biomedical_sentence_1391	18	etter	_	_	_	_	etter	_
+_	biomedical_sentence_1391	19	fertilisering	_	_	_	_	fertilisering	_
+_	biomedical_sentence_1391	20	.	_	_	_	_	_	_
+
+_	biomedical_sentence_1426	0	Denne	_	_	_	***
+_	biomedical_sentence_1426	1	mikrokirurgiske	_	_	_	***
+_	biomedical_sentence_1426	2	metoden	_	_	_	***
+_	biomedical_sentence_1426	3	reduserer	_	_	_	***
+_	biomedical_sentence_1426	4	dessuten	_	_	_	***
+_	biomedical_sentence_1426	5	risikoen	_	_	_	***
+_	biomedical_sentence_1426	6	for	_	_	_	***
+_	biomedical_sentence_1426	7	komplikasjoner	_	_	_	***
+_	biomedical_sentence_1426	8	.	_	_	_	***
+
+_	biomedical_sentence_1464	0	Dessuten	_	_	_	***
+_	biomedical_sentence_1464	1	bør	_	_	_	***
+_	biomedical_sentence_1464	2	det	_	_	_	***
+_	biomedical_sentence_1464	3	gis	_	_	_	***
+_	biomedical_sentence_1464	4	informasjon	_	_	_	***
+_	biomedical_sentence_1464	5	om	_	_	_	***
+_	biomedical_sentence_1464	6	alternative	_	_	_	***
+_	biomedical_sentence_1464	7	måter	_	_	_	***
+_	biomedical_sentence_1464	8	å	_	_	_	***
+_	biomedical_sentence_1464	9	bli	_	_	_	***
+_	biomedical_sentence_1464	10	foreldre	_	_	_	***
+_	biomedical_sentence_1464	11	på	_	_	_	***
+_	biomedical_sentence_1464	12	,	_	_	_	***
+_	biomedical_sentence_1464	13	som	_	_	_	***
+_	biomedical_sentence_1464	14	assistert	_	_	_	***
+_	biomedical_sentence_1464	15	befruktning	_	_	_	***
+_	biomedical_sentence_1464	16	med	_	_	_	***
+_	biomedical_sentence_1464	17	donorsæd	_	_	_	***
+_	biomedical_sentence_1464	18	og	_	_	_	***
+_	biomedical_sentence_1464	19	adopsjon	_	_	_	***
+_	biomedical_sentence_1464	20	.	_	_	_	***
+
+_	biomedical_sentence_1483	0	Siden	_	_	_	***
+_	biomedical_sentence_1483	1	januar	_	_	_	***
+_	biomedical_sentence_1483	2	2005	_	_	_	***
+_	biomedical_sentence_1483	3	har	_	_	_	***
+_	biomedical_sentence_1483	4	det	_	_	_	***
+_	biomedical_sentence_1483	5	kun	_	_	_	***
+_	biomedical_sentence_1483	6	vært	_	_	_	***
+_	biomedical_sentence_1483	7	lov	_	_	_	***
+_	biomedical_sentence_1483	8	å	_	_	_	***
+_	biomedical_sentence_1483	9	benytte	_	_	_	***
+_	biomedical_sentence_1483	10	donorsæd	_	_	_	***
+_	biomedical_sentence_1483	11	fra	_	_	_	***
+_	biomedical_sentence_1483	12	identifiserbar	_	_	_	***
+_	biomedical_sentence_1483	13	giver	_	_	_	***
+_	biomedical_sentence_1483	14	.	_	_	_	***
+
+_	biomedical_sentence_1502	0	Denne	_	_	_	***
+_	biomedical_sentence_1502	1	antakelsen	_	_	_	***
+_	biomedical_sentence_1502	2	er	_	_	_	***
+_	biomedical_sentence_1502	3	basert	_	_	_	***
+_	biomedical_sentence_1502	4	på	_	_	_	***
+_	biomedical_sentence_1502	5	at	_	_	_	***
+_	biomedical_sentence_1502	6	spermier	_	_	_	***
+_	biomedical_sentence_1502	7	fra	_	_	_	***
+_	biomedical_sentence_1502	8	menn	_	_	_	***
+_	biomedical_sentence_1502	9	med	_	_	_	***
+_	biomedical_sentence_1502	10	slikt	_	_	_	***
+_	biomedical_sentence_1502	11	syndrom	_	_	_	***
+_	biomedical_sentence_1502	12	har	_	_	_	***
+_	biomedical_sentence_1502	13	vist	_	_	_	***
+_	biomedical_sentence_1502	14	seg	_	_	_	***
+_	biomedical_sentence_1502	15	å	_	_	_	***
+_	biomedical_sentence_1502	16	ha	_	_	_	***
+_	biomedical_sentence_1502	17	en	_	_	_	***
+_	biomedical_sentence_1502	18	økt	_	_	_	***
+_	biomedical_sentence_1502	19	forekomst	_	_	_	***
+_	biomedical_sentence_1502	20	av	_	_	_	***
+_	biomedical_sentence_1502	21	kromosomfeil	_	_	_	***
+_	biomedical_sentence_1502	22	,	_	_	_	***
+_	biomedical_sentence_1502	23	spesielt	_	_	_	***
+_	biomedical_sentence_1502	24	24,XY	_	_	_	***
+_	biomedical_sentence_1502	25	og	_	_	_	***
+_	biomedical_sentence_1502	26	24,XX	_	_	_	***
+_	biomedical_sentence_1502	27	,	_	_	_	***
+_	biomedical_sentence_1502	28	sammenliknet	_	_	_	***
+_	biomedical_sentence_1502	29	med	_	_	_	***
+_	biomedical_sentence_1502	30	spermier	_	_	_	***
+_	biomedical_sentence_1502	31	fra	_	_	_	***
+_	biomedical_sentence_1502	32	menn	_	_	_	***
+_	biomedical_sentence_1502	33	med	_	_	_	***
+_	biomedical_sentence_1502	34	normal	_	_	_	***
+_	biomedical_sentence_1502	35	karyotype	_	_	_	***
+_	biomedical_sentence_1502	36	.	_	_	_	***
+
+_	biomedical_sentence_1552	0	Diabetes	_	_	_	***
+_	biomedical_sentence_1552	1	øker	_	_	_	***
+_	biomedical_sentence_1552	2	risikoen	_	_	_	***
+_	biomedical_sentence_1552	3	for	_	_	_	***
+_	biomedical_sentence_1552	4	komplikasjoner	_	_	_	***
+_	biomedical_sentence_1552	5	hos	_	_	_	***
+_	biomedical_sentence_1552	6	mor	_	_	_	***
+_	biomedical_sentence_1552	7	og	_	_	_	***
+_	biomedical_sentence_1552	8	barn	_	_	_	***
+_	biomedical_sentence_1552	9	under	_	_	_	***
+_	biomedical_sentence_1552	10	svangerskap	_	_	_	***
+_	biomedical_sentence_1552	11	og	_	_	_	***
+_	biomedical_sentence_1552	12	fødsel	_	_	_	***
+_	biomedical_sentence_1552	13	.	_	_	_	***
+
+_	biomedical_sentence_1556	0	Formålet	_	_	_	***
+_	biomedical_sentence_1556	1	med	_	_	_	***
+_	biomedical_sentence_1556	2	diabetesbehandlingen	_	_	_	***
+_	biomedical_sentence_1556	3	i	_	_	_	***
+_	biomedical_sentence_1556	4	svangerskapet	_	_	_	***
+_	biomedical_sentence_1556	5	er	_	_	_	***
+_	biomedical_sentence_1556	6	blodsukkerverdier	_	_	_	***
+_	biomedical_sentence_1556	7	på	_	_	_	***
+_	biomedical_sentence_1556	8	48	_	_	_	***
+_	biomedical_sentence_1556	9	mmol	_	_	_	***
+_	biomedical_sentence_1556	10	/	_	_	_	***
+_	biomedical_sentence_1556	11	l	_	_	_	***
+_	biomedical_sentence_1556	12	ved	_	_	_	***
+_	biomedical_sentence_1556	13	egenmålinger	_	_	_	***
+_	biomedical_sentence_1556	14	og	_	_	_	***
+_	biomedical_sentence_1556	15	at	_	_	_	***
+_	biomedical_sentence_1556	16	kvinnen	_	_	_	***
+_	biomedical_sentence_1556	17	føler	_	_	_	***
+_	biomedical_sentence_1556	18	seg	_	_	_	***
+_	biomedical_sentence_1556	19	vel	_	_	_	***
+_	biomedical_sentence_1556	20	.	_	_	_	***
+
+_	biomedical_sentence_1557	0	Målsettingen	_	_	_	***
+_	biomedical_sentence_1557	1	er	_	_	_	***
+_	biomedical_sentence_1557	2	å	_	_	_	***
+_	biomedical_sentence_1557	3	forhindre	_	_	_	***
+_	biomedical_sentence_1557	4	komplikasjoner	_	_	_	***
+_	biomedical_sentence_1557	5	hos	_	_	_	***
+_	biomedical_sentence_1557	6	mor	_	_	_	***
+_	biomedical_sentence_1557	7	og	_	_	_	***
+_	biomedical_sentence_1557	8	barn	_	_	_	***
+_	biomedical_sentence_1557	9	.	_	_	_	***
+
+_	biomedical_sentence_1564	0	Både	_	_	_	***
+_	biomedical_sentence_1564	1	nasjonalt	_	_	_	***
+_	biomedical_sentence_1564	2	og	_	_	_	***
+_	biomedical_sentence_1564	3	internasjonalt	_	_	_	***
+_	biomedical_sentence_1564	4	diskuteres	_	_	_	***
+_	biomedical_sentence_1564	5	det	_	_	_	***
+_	biomedical_sentence_1564	6	testrutiner	_	_	_	***
+_	biomedical_sentence_1564	7	for	_	_	_	***
+_	biomedical_sentence_1564	8	å	_	_	_	***
+_	biomedical_sentence_1564	9	avdekke	_	_	_	***
+_	biomedical_sentence_1564	10	glukoseintoleranse	_	_	_	***
+_	biomedical_sentence_1564	11	og	_	_	_	***
+_	biomedical_sentence_1564	12	diabetes	_	_	_	***
+_	biomedical_sentence_1564	13	i	_	_	_	***
+_	biomedical_sentence_1564	14	svangerskapet	_	_	_	***
+_	biomedical_sentence_1564	15	.	_	_	_	***
+
+_	biomedical_sentence_1570	0	Totalt	_	_	_	***
+_	biomedical_sentence_1570	1	509	_	_	_	***
+_	biomedical_sentence_1570	2	svangerskap	_	_	_	***
+_	biomedical_sentence_1570	3	med	_	_	_	***
+_	biomedical_sentence_1570	4	ett	_	_	_	***
+_	biomedical_sentence_1570	5	barn	_	_	_	***
+_	biomedical_sentence_1570	6	ble	_	_	_	***
+_	biomedical_sentence_1570	7	inkludert	_	_	_	***
+_	biomedical_sentence_1570	8	.	_	_	_	***
+
+_	biomedical_sentence_1573	0	Vi	_	_	_	***
+_	biomedical_sentence_1573	1	inkluderte	_	_	_	***
+_	biomedical_sentence_1573	2	bare	_	_	_	***
+_	biomedical_sentence_1573	3	kvinner	_	_	_	***
+_	biomedical_sentence_1573	4	med	_	_	_	***
+_	biomedical_sentence_1573	5	bostedsadresse	_	_	_	***
+_	biomedical_sentence_1573	6	i	_	_	_	***
+_	biomedical_sentence_1573	7	Oslo	_	_	_	***
+_	biomedical_sentence_1573	8	.	_	_	_	***
+
+_	biomedical_sentence_1574	0	Sammenliknet	_	_	_	***
+_	biomedical_sentence_1574	1	med	_	_	_	***
+_	biomedical_sentence_1574	2	etnisk	_	_	_	***
+_	biomedical_sentence_1574	3	norske	_	_	_	***
+_	biomedical_sentence_1574	4	var	_	_	_	***
+_	biomedical_sentence_1574	5	kvinnene	_	_	_	***
+_	biomedical_sentence_1574	6	fra	_	_	_	***
+_	biomedical_sentence_1574	7	Asia	_	_	_	***
+_	biomedical_sentence_1574	8	/	_	_	_	***
+_	biomedical_sentence_1574	9	Afrika	_	_	_	***
+_	biomedical_sentence_1574	10	eldre	_	_	_	***
+_	biomedical_sentence_1574	11	,	_	_	_	***
+_	biomedical_sentence_1574	12	en	_	_	_	***
+_	biomedical_sentence_1574	13	større	_	_	_	***
+_	biomedical_sentence_1574	14	andel	_	_	_	***
+_	biomedical_sentence_1574	15	var	_	_	_	***
+_	biomedical_sentence_1574	16	over	_	_	_	***
+_	biomedical_sentence_1574	17	35	_	_	_	***
+_	biomedical_sentence_1574	18	år	_	_	_	***
+_	biomedical_sentence_1574	19	,	_	_	_	***
+_	biomedical_sentence_1574	20	og	_	_	_	***
+_	biomedical_sentence_1574	21	mange	_	_	_	***
+_	biomedical_sentence_1574	22	hadde	_	_	_	***
+_	biomedical_sentence_1574	23	to	_	_	_	***
+_	biomedical_sentence_1574	24	eller	_	_	_	***
+_	biomedical_sentence_1574	25	flere	_	_	_	***
+_	biomedical_sentence_1574	26	tidligere	_	_	_	***
+_	biomedical_sentence_1574	27	fødsler	_	_	_	***
+_	biomedical_sentence_1574	28	.	_	_	_	***
+
+_	biomedical_sentence_1580	0	Hovedbudskap	_	_	_	***
+_	biomedical_sentence_1580	1	Diabetes	_	_	_	***
+_	biomedical_sentence_1580	2	i	_	_	_	***
+_	biomedical_sentence_1580	3	svangerskapet	_	_	_	***
+_	biomedical_sentence_1580	4	er	_	_	_	***
+_	biomedical_sentence_1580	5	et	_	_	_	***
+_	biomedical_sentence_1580	6	viktig	_	_	_	***
+_	biomedical_sentence_1580	7	helseproblem	_	_	_	***
+_	biomedical_sentence_1580	8	,	_	_	_	***
+_	biomedical_sentence_1580	9	særlig	_	_	_	***
+_	biomedical_sentence_1580	10	hos	_	_	_	***
+_	biomedical_sentence_1580	11	kvinner	_	_	_	***
+_	biomedical_sentence_1580	12	født	_	_	_	***
+_	biomedical_sentence_1580	13	i	_	_	_	***
+_	biomedical_sentence_1580	14	Asia	_	_	_	***
+_	biomedical_sentence_1580	15	/	_	_	_	***
+_	biomedical_sentence_1580	16	Afrika	_	_	_	***
+_	biomedical_sentence_1580	17	Glukoseintoleransetest	_	_	_	***
+_	biomedical_sentence_1580	18	hos	_	_	_	***
+_	biomedical_sentence_1580	19	risikogrupper	_	_	_	***
+_	biomedical_sentence_1580	20	bør	_	_	_	***
+_	biomedical_sentence_1580	21	utføres	_	_	_	***
+_	biomedical_sentence_1580	22	tidlig	_	_	_	***
+_	biomedical_sentence_1580	23	i	_	_	_	***
+_	biomedical_sentence_1580	24	svangerskapet	_	_	_	***
+_	biomedical_sentence_1580	25	For	_	_	_	***
+_	biomedical_sentence_1580	26	å	_	_	_	***
+_	biomedical_sentence_1580	27	sikre	_	_	_	***
+_	biomedical_sentence_1580	28	oppfølging	_	_	_	***
+_	biomedical_sentence_1580	29	av	_	_	_	***
+_	biomedical_sentence_1580	30	kvinner	_	_	_	***
+_	biomedical_sentence_1580	31	med	_	_	_	***
+_	biomedical_sentence_1580	32	svangerskapsdiabetes	_	_	_	***
+_	biomedical_sentence_1580	33	bør	_	_	_	***
+_	biomedical_sentence_1580	34	glukoseintoleransetesten	_	_	_	***
+_	biomedical_sentence_1580	35	etter	_	_	_	***
+_	biomedical_sentence_1580	36	fødsel	_	_	_	***
+_	biomedical_sentence_1580	37	gjøres	_	_	_	***
+_	biomedical_sentence_1580	38	lett	_	_	_	***
+_	biomedical_sentence_1580	39	tilgjengelig	_	_	_	***
+_	biomedical_sentence_1580	40	,	_	_	_	***
+_	biomedical_sentence_1580	41	f.eks.	_	_	_	***
+
+_	biomedical_sentence_1593	0	Flertallet	_	_	_	***
+_	biomedical_sentence_1593	1	av	_	_	_	***
+_	biomedical_sentence_1593	2	kvinnene	_	_	_	***
+_	biomedical_sentence_1593	3	fra	_	_	_	***
+_	biomedical_sentence_1593	4	Asia	_	_	_	***
+_	biomedical_sentence_1593	5	/	_	_	_	***
+_	biomedical_sentence_1593	6	Afrika	_	_	_	***
+_	biomedical_sentence_1593	7	hadde	_	_	_	***
+_	biomedical_sentence_1593	8	svangerskapsdiabetes	_	_	_	***
+_	biomedical_sentence_1593	9	.	_	_	_	***
+
+_	biomedical_sentence_1595	0	Hos	_	_	_	***
+_	biomedical_sentence_1595	1	kvinner	_	_	_	***
+_	biomedical_sentence_1595	2	født	_	_	_	***
+_	biomedical_sentence_1595	3	i	_	_	_	***
+_	biomedical_sentence_1595	4	Norge	_	_	_	***
+_	biomedical_sentence_1595	5	var	_	_	_	***
+_	biomedical_sentence_1595	6	type	_	_	_	***
+_	biomedical_sentence_1595	7	1-	_	_	_	***
+_	biomedical_sentence_1595	8	og	_	_	_	***
+_	biomedical_sentence_1595	9	svangerskapsdiabetes	_	_	_	***
+_	biomedical_sentence_1595	10	nesten	_	_	_	***
+_	biomedical_sentence_1595	11	jevnt	_	_	_	***
+_	biomedical_sentence_1595	12	fordelt	_	_	_	***
+_	biomedical_sentence_1595	13	.	_	_	_	***
+
+_	biomedical_sentence_1598	0	Hos	_	_	_	***
+_	biomedical_sentence_1598	1	kvinner	_	_	_	***
+_	biomedical_sentence_1598	2	med	_	_	_	***
+_	biomedical_sentence_1598	3	svangerskapsdiabetes	_	_	_	***
+_	biomedical_sentence_1598	4	var	_	_	_	***
+_	biomedical_sentence_1598	5	fedme	_	_	_	***
+_	biomedical_sentence_1598	6	like	_	_	_	***
+_	biomedical_sentence_1598	7	utbredt	_	_	_	***
+_	biomedical_sentence_1598	8	i	_	_	_	***
+_	biomedical_sentence_1598	9	begge	_	_	_	***
+_	biomedical_sentence_1598	10	gruppene	_	_	_	***
+_	biomedical_sentence_1598	11	.	_	_	_	***
+
+_	biomedical_sentence_1609	0	For	_	_	_	***
+_	biomedical_sentence_1609	1	de	_	_	_	***
+_	biomedical_sentence_1609	2	norske	_	_	_	***
+_	biomedical_sentence_1609	3	kvinnene	_	_	_	***
+_	biomedical_sentence_1609	4	var	_	_	_	***
+_	biomedical_sentence_1609	5	andelen	_	_	_	***
+_	biomedical_sentence_1609	6	41	_	_	_	***
+_	biomedical_sentence_1609	7	%	_	_	_	***
+_	biomedical_sentence_1609	8	.	_	_	_	***

@@ -1,0 +1,1 @@
+eval.cd-sco.pl obtained from: https://github.com/ltgoslo/norec_neg/blob/main/modeling/evaluation/eval.cd-sco.pl
